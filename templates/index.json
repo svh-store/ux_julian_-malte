@@ -1,1 +1,1344 @@
-{"sections":{"pop_up_KP7wf3":{"type":"pop-up","blocks":{"heading_9xENFm":{"type":"heading","settings":{"heading":"Neuer Look, fette Prozente!","heading_size":"h2"}},"subheading_nGkDLD":{"type":"subheading","settings":{"text":"15 % auf (fast) alles – außer auf Elektronik."}},"text_DeTBhc":{"type":"text","settings":{"text":"<p>Unser Shop glänzt im neuen Design – und du bekommst den Rabatt!<br\/><br\/>Nur kurz da, genau wie deine <strong>alte Hülle<\/strong>...<br\/><br\/><\/p>","text_size":""}},"countdown_7dxKr8":{"type":"countdown","settings":{"end_date":"","end_time":"","end_text":"","enlarge_end_text":false,"hide_on_end":false,"countdown_size":"24","use_custom_colors":false,"count_color":"#ffffff","count_bg_color":"#070707","count_bg_grad":""}},"discount_Mgi9KG":{"type":"discount","settings":{"discount_code":"CG2025"}}},"block_order":["heading_9xENFm","subheading_nGkDLD","text_DeTBhc","countdown_7dxKr8","discount_Mgi9KG"],"disabled":true,"custom_css":[],"settings":{"trigger":"delay","delay":5,"show_to_guests_only":true,"show_on_mobile":true,"dismiss_days":30,"position":"justify-center items-center","text_align":"text-center","padding":"small","shrink_width":true,"heading_color":"#070707","text_color":"#070707","bg_color":"#ffffff","bg_grad":"","tint_opacity":0}},"slideshow_JPRaTA":{"type":"slideshow","blocks":{"slide_3xWxYt":{"type":"slide","settings":{"image_desktop":"shopify:\/\/shop_images\/magsafeweb.webp","image_mobile":"shopify:\/\/shop_images\/magsafe112.webp","url":"","overlay_position":"justify-end items-center","overlay_text_align":"text-end","mob_center_text":false,"subheading":"Deine Hülle mit Anziehungskraft: Stylisch, sicher, sofort verbunden.","heading":"Magnetisch sicher. Unglaublich stylisch. Typisch du.","heading_size":"h3","heading_h1":false,"text":"<p>Du suchst 'ne Hülle, die nicht nur schützt, sondern auch magnetisch gut aussieht? Unsere MagSafe-Hüllen verbinden Style mit Funktion: Perfekt ausgerichtet, stark haftend, kabellos ladend. Für iPhone & Samsung-Liebhaber, die keine halben Sachen wollen.<\/p>","enlarge_text":false,"button_1_label":"Jetzt Lieblingshülle finden","button_1_link":"shopify:\/\/collections\/magsafe","button_1_style":"btn btn--primary","button_2_label":"","button_2_link":"","button_2_style":"btn btn--primary","transparent_content_color":"#ffffff","countdown_show":false,"countdown_end_date":"","countdown_end_time":"","countdown_end_text":"","enlarge_end_text":false,"countdown_hide_on_end":false,"use_custom_colors":false,"count_color":"#ffffff","bg_color":"#b40c1c","bg_grad":""}},"slide_DdaiNr":{"type":"slide","settings":{"image_desktop":"shopify:\/\/shop_images\/headertest1.0_d9c53382-a5f8-4674-bdf9-414cba150db7.webp","image_mobile":"shopify:\/\/shop_images\/rueckschalenfarbig.webp","url":"","overlay_position":"justify-end items-center","overlay_text_align":"text-center","mob_center_text":false,"subheading":"Finde deine perfekte Hülle – bunt, robust, passgenau.","heading":"Handyhüllen in starken Farben – Schutz trifft Style","heading_size":"h3","heading_h1":false,"text":"<p>Ob Schwarz, Rot, Rosa, Mint oder Gelb – hier findest du deine farbige Schutzhülle mit perfektem Sitz und starkem Schutz.<\/p>","enlarge_text":false,"button_1_label":"Jetzt Lieblingshülle finden","button_1_link":"shopify:\/\/collections\/handy-ruckschale","button_1_style":"btn btn--primary","button_2_label":"","button_2_link":"","button_2_style":"btn btn--primary","transparent_content_color":"#ffffff","countdown_show":false,"countdown_end_date":"","countdown_end_time":"","countdown_end_text":"","enlarge_end_text":false,"countdown_hide_on_end":false,"use_custom_colors":true,"count_color":"#ffffff","bg_color":"#070707","bg_grad":""}},"slide_d6QMwR":{"type":"slide","settings":{"image_desktop":"shopify:\/\/shop_images\/klapptaschenheader.webp","image_mobile":"shopify:\/\/shop_images\/mobileklapp1webp.webp","url":"","overlay_position":"justify-end items-center","overlay_text_align":"text-end","mob_center_text":false,"subheading":"Alles in einer Hülle & einem Griff, einfach Klapptastisch!","heading":"Klappt auf, sieht gut aus, schützt besser.","heading_size":"h3","heading_h1":false,"text":"<p>Elegantes Design trifft funktionalen Rundum-Schutz – mit Kartenfächern, Magnetverschluss & smarter Aufstellfunktion.<\/p>","enlarge_text":false,"button_1_label":"Jetzt Lieblingshülle finden","button_1_link":"shopify:\/\/collections\/handy-klapphulle-1","button_1_style":"btn btn--primary","button_2_label":"","button_2_link":"","button_2_style":"btn btn--primary","transparent_content_color":"#ffffff","countdown_show":false,"countdown_end_date":"","countdown_end_time":"","countdown_end_text":"","enlarge_end_text":false,"countdown_hide_on_end":false,"use_custom_colors":false,"count_color":"#ffffff","bg_color":"#070707","bg_grad":""}},"slide_rK8NbQ":{"type":"slide","disabled":true,"settings":{"image_desktop":"shopify:\/\/shop_images\/BasicTPU.webp","image_mobile":"shopify:\/\/shop_images\/basictpumobile.webp","url":"","overlay_position":"justify-center items-center","overlay_text_align":"text-start","mob_center_text":false,"subheading":"Ladekabel, Netzteile & Powerbanks","heading":"Zuverlässige Energie – jederzeit & überall","heading_size":"h2","heading_h1":false,"text":"<p>Bleiben Sie stets verbunden mit leistungsstarken Ladekabeln, Netzteilen und Powerbanks. Für schnelles und sicheres Laden – ob zu Hause oder unterwegs.<\/p>","enlarge_text":false,"button_1_label":"Jetzt Ladegeräte & Netzteile entdecken","button_1_link":"shopify:\/\/collections\/ladegerate-netzteile","button_1_style":"btn btn--primary","button_2_label":"","button_2_link":"","button_2_style":"btn btn--primary","transparent_content_color":"#ffffff","countdown_show":false,"countdown_end_date":"","countdown_end_time":"","countdown_end_text":"","enlarge_end_text":false,"countdown_hide_on_end":false,"use_custom_colors":false,"count_color":"#ffffff","bg_color":"#070707","bg_grad":""}}},"block_order":["slide_3xWxYt","slide_DdaiNr","slide_d6QMwR","slide_rK8NbQ"],"custom_css":["img {border-radius: 30px; margin-top: 10px;}"],"name":"Hauptbanner","settings":{"height_mode":"screen","fixed_height_desktop":400,"fixed_height_mobile":250,"mobile_stacked":false,"nav_style":"slideshow_nav_lines","pagination_color":"#f19222","nav_position":"justify-center","transition":"slide-fade","autoplay":true,"slider_pause":true,"autoplay_speed":9,"color_scheme":"1","full_width":true,"tint_color":"#000000","tint_opacity":0,"accessibility_info":"Entdecke Hüllen und Handyzubehör, in allen Farben und vielfalt!","prevent_animation":true}},"custom_liquid_hn8NRM":{"type":"custom-liquid","name":"Custom HTML\/Liquid","settings":{"custom_liquid":"","section_height":"default","full_width":false,"dividers":"none","prevent_animation":false}},"custom_slideshow_8HJzrB":{"type":"custom-slideshow","custom_css":[".quick-nav__heading {font-size: 60px; white-space: nowrap; font-weight: bold; display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center;}","@media (max-width: 768px) {.quick-nav__heading {font-size: 36px; }}","@media (max-width: 480px) {.quick-nav__heading {font-size: 28px; }}"],"settings":{"quick_nav_menu":"modellauswahl","quick_nav_title":"Wähle dein Modell","quick_nav_image_ratio":"1","quick_nav_image_fit":"contain","quick_nav_use_product_image":false,"quick_nav_color_scheme":"1","quick_nav_show_price":false,"menu_1_text":"1. Hersteller","menu_1_display":"small_text","menu_2_text":"2. Serie","menu_2_display":"small_text","menu_3_text":"3. Modell","menu_3_display":"small_text"}},"custom_liquid_cBDWBj":{"type":"custom-liquid","settings":{"custom_liquid":"<!DOCTYPE html>\n<html lang=\"de\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Animation mit Pfeil & Titel<\/title>\n  <style>\n    \/* Gesamt-Container *\/\n    .animation-wrapper {\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      flex-direction: column;\n      width: 100%;\n      margin: 20px auto;\n      padding: 10px;\n      text-align: center;\n      position: relative;\n    }\n\n    \/* Pfeil-Grafik *\/\n    .slide-image {\n      width: 15vw;\n      max-width: 100px;\n      height: auto;\n      opacity: 0;\n      transform: rotate(90deg) translateY(-30px);\n      transition: transform 0.5s ease-out, opacity 0.5s ease-out;\n    }\n\n    \/* Titel, der aus dem Pfeil slidet *\/\n    .animated-title {\n      font-size: clamp(24px, 5vw, 60px);\n      font-weight: bold;\n      color: #333;\n      opacity: 0;\n      transform: translateY(-30px);\n      transition: transform 0.5s ease-out 0.5s, opacity 0.5s ease-out 0.5s;\n    }\n\n    \/* Orangener Strich *\/\n    .animated-line {\n      width: 100%;\n      height: 4px;\n      background-color: orange;\n      margin-top: 10px;\n      opacity: 0;\n      transform: translateY(-20px);\n      transition: transform 0.5s ease-out 1s, opacity 0.5s ease-out 1s;\n    }\n\n    \/* Animation aktivieren *\/\n    .animation-wrapper.active .slide-image {\n      opacity: 1;\n      transform: rotate(90deg) translateY(0);\n    }\n\n    .animation-wrapper.active .animated-title {\n      opacity: 1;\n      transform: translateY(0);\n    }\n\n    .animation-wrapper.active .animated-line {\n      opacity: 1;\n      transform: translateY(0);\n    }\n\n    \/* Responsive Anpassungen *\/\n    @media (max-width: 1024px) {\n      .animated-line {\n        width: 80%;\n        max-width: 300px;\n      }\n    }\n\n    @media (max-width: 768px) {\n      .slide-image {\n        width: 20vw;\n        max-width: 80px;\n      }\n\n      .animated-title {\n        font-size: clamp(18px, 4vw, 50px);\n      }\n\n      .animated-line {\n        width: 90%;\n      }\n    }\n  <\/style>\n<\/head>\n<body>\n\n  <div class=\"animation-wrapper\" id=\"animationWrapper2\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0816\/6368\/9043\/files\/arrowmodern.svg?v=1740055818\" class=\"slide-image\" alt=\"Pfeil\">\n    <h2 class=\"animated-title\">Entdecke unser Sortiment<\/h2>\n    <div class=\"animated-line\"><\/div>\n  <\/div>\n\n  <script>\n    document.addEventListener(\"DOMContentLoaded\", function() {\n      setTimeout(function() {\n        document.getElementById(\"animationWrapper2\").classList.add(\"active\");\n      }, 800);\n    });\n  <\/script>\n\n<\/body>\n<\/html>","section_height":"default","full_width":false,"dividers":"none","prevent_animation":false}},"media_grid_AAgGk7":{"type":"media-grid","blocks":{"media_dG6q6j":{"type":"media","settings":{"image":"shopify:\/\/shop_images\/klapphuellen_fuer_apple_samsung_xiaomi_und_mehr.webp","link_url":"shopify:\/\/collections\/handy-klapphulle-1","columns":1,"rows":1,"subheading":"","title":"","heading_size":"h4","button_label":"Klapphüllen","button_link":"","overlay_position":"justify-start items-end","text_alignment":"text-start","button_style":"btn btn--primary","tint_color":"#000000","tint_opacity":0}},"media_dd7jm8":{"type":"media","settings":{"image":"shopify:\/\/shop_images\/farbenfrohe_bunte_handy_schutz_huellen_rueckschalen.webp","link_url":"shopify:\/\/collections\/handy-ruckschale","columns":1,"rows":1,"subheading":"","title":"","heading_size":"h4","button_label":"Rückschalen","button_link":"","overlay_position":"justify-start items-end","text_alignment":"text-start","button_style":"btn btn--primary","tint_color":"#000000","tint_opacity":0}},"media_4Rbbdr":{"type":"media","settings":{"image":"shopify:\/\/shop_images\/panzerfolien_samsung_apple_huawei_xiaomi_google_uvm.webp","link_url":"shopify:\/\/collections\/schutzfolie-101","columns":1,"rows":1,"subheading":"","title":"","heading_size":"h4","button_label":"Schutzfolien","button_link":"","overlay_position":"justify-start items-end","text_alignment":"text-start","button_style":"btn btn--primary","tint_color":"#000000","tint_opacity":0}}},"block_order":["media_dG6q6j","media_dd7jm8","media_4Rbbdr"],"custom_css":[".media {}",".gallery-block__image {border: 1px solid rgba(255, 255, 255, 0.4); border-radius: 16px; background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(6px); overflow: hidden; transition: transform 0.3s ease, backdrop-filter 0.3s ease, box-shadow 0.3s ease;}",".hover\\:grow-media:hover .gallery-block__image {transform: scale(1.05); backdrop-filter: blur(10px); box-shadow: 0 0 12px rgba(241, 146, 34, 0.4); \/* stärkerer Glow beim Hover *\/}"],"settings":{"title":"","heading_align":"text-center","button_label":"","button_link":"","gallery_cols_max":3,"mobile_carousel":false,"gallery_cols_min":"1","fixed_height_desktop":300,"fixed_height_mobile":280,"section_color_scheme":"1","color_scheme":"white","transparent_content_color":"#f19222"}},"custom_liquid_kMymAy":{"type":"custom-liquid","settings":{"custom_liquid":"<!DOCTYPE html>\n<html lang=\"de\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Shopify Sektion<\/title>\n  <style>\n    \/* Container für den Titel und die Linie *\/\n    .section-wrapper {\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      flex-direction: column;\n      width: 100%;\n      margin: 20px auto;\n      padding: 10px;\n      text-align: center;\n      position: relative;\n    }\n\n    \/* Titel mit automatischer Größenanpassung *\/\n    .section-title {\n      font-size: clamp(24px, 5vw, 50px); \/* Passt sich von 24px (kleinste Größe) bis 50px (größte Größe) an *\/\n      font-weight: bold;\n      color: #333;\n    }\n\n    \/* Orangener Strich *\/\n    .section-line {\n      width: 100%; \/* Standardmäßig volle Breite auf PCs *\/\n      height: 4px;\n      background-color: orange;\n      margin-top: 10px;\n    }\n\n    \/* Responsive Anpassung für Tablets & Mobile *\/\n    @media (max-width: 1024px) { \/* Tablet *\/\n      .section-line {\n        width: 80%; \/* Etwas schmaler auf Tablets *\/\n        max-width: 300px;\n      }\n    }\n\n    @media (max-width: 768px) { \/* Mobile *\/\n      .section-line {\n        width: 90%; \/* Etwas schmaler auf kleineren Geräten *\/\n      }\n    }\n  <\/style>\n<\/head>\n<body>\n\n  <!-- Mehrfach nutzbare Sektion -->\n  <div class=\"section-wrapper\">\n    <h2 class=\"section-title\">Unsere Kundenlieblinge<\/h2>\n    <div class=\"section-line\"><\/div>\n  <\/div>\n\n<\/body>\n<\/html>","section_height":"default","full_width":false,"dividers":"none","prevent_animation":false}},"custom_liquid_yCF49d":{"type":"custom-liquid","settings":{"custom_liquid":"<div class=\"stats-container\">\n  <div class=\"stats-item\">\n    <div class=\"counter\" data-target=\"3500000\" data-plus=\"true\">0<\/div>\n    <div>zufriedene Kunden<\/div>\n  <\/div>\n  <div class=\"stats-item\">\n    <div class=\"counter\" data-target=\"2550500\" data-plus=\"true\">0<\/div>\n    <div>verkaufte Hüllen<\/div>\n  <\/div>\n  <div class=\"stats-item\">\n    <div class=\"counter\" data-target=\"475000\" data-plus=\"true\">0<\/div>\n    <div>verkaufte Schutzfolien<\/div>\n  <\/div>\n<\/div>\n\n<style>\n  .stats-container {\n    display: flex;\n    flex-wrap: wrap;\n    justify-content: center;\n  }\n\n  .stats-item {\n    flex: 1 1 200px;\n    min-width: 200px;\n    text-align: center;\n    margin-bottom: 0;\n  }\n\n  .counter {\n    font-size: 48px;\n    font-weight: bold;\n    color: #F19222;\n    line-height: 1;\n    transition: transform 0.3s ease;\n  }\n\n  .counter:hover {\n    transform: scale(1.2) \n  }\n\n  .stats-item div:last-child {\n    margin-top: 4px;\n    font-size: 16px;\n    line-height: 1.2;\n  }\n\n  @media (max-width: 768px) {\n    .stats-container {\n      flex-direction: column;\n      align-items: center;\n    }\n\n    .stats-item {\n      width: 100%;\n      max-width: 300px;\n    }\n\n    .stats-item:not(:last-child) {\n      margin-bottom: 8px;\n    }\n\n    .stats-item:last-child {\n      margin-bottom: 0;\n    }\n\n    .counter {\n      font-size: 36px;\n    }\n\n    .stats-item div:last-child {\n      font-size: 14px;\n      margin-top: 2px;\n    }\n  }\n<\/style>\n\n<script>\n  document.addEventListener(\"DOMContentLoaded\", () => {\n    const counters = document.querySelectorAll('.counter');\n\n    function animateCounter(counter) {\n      const target = +counter.dataset.target;\n      const hasPlus = counter.hasAttribute('data-plus');\n      let current = 0;\n      const increment = Math.ceil(target \/ 200);\n\n      const update = () => {\n        current = Math.min(current + increment, target);\n        counter.innerText = current.toLocaleString() + (hasPlus && current === target ? '+' : '');\n        if (current < target) setTimeout(update, 20);\n      };\n\n      update();\n    }\n\n    const observer = new IntersectionObserver(entries => {\n      entries.forEach(entry => {\n        if (entry.isIntersecting) {\n          animateCounter(entry.target);\n          observer.unobserve(entry.target);\n        }\n      });\n    }, { threshold: 0.5 });\n\n    counters.forEach(counter => observer.observe(counter));\n  });\n<\/script>","section_height":"tight","full_width":false,"dividers":"none","prevent_animation":false}},"product_list_FDckHN":{"type":"product-list","custom_css":[".section__heading {padding-top: 50px; \/* Abstand nach oben *\/ padding-bottom: 50px; \/* Abstand nach unten *\/}"," \/* Horizontale Scrollbar-Höhe *\/.os-scrollbar-horizontal {height: 25px !important;}"],"settings":{"title":"","heading_align":"text-center","view_all_url":"","product_list":"{{ metaobjects.bestseller[\"bestseller-xd4ohtkt\"].bsh.value }}","layout":"carousel","card_size_mobile":"small","card_size":"small","show_highlight_products":true,"show_promo_info":true,"image_ratio":"natural","promo_title":"Schützende Lieblinge","content":"<p>Robust, passgenau und stilvoll – diese Hüllen überzeugen mit Qualität und Design. Sie vereinen Funktionalität mit Ästhetik und zählen zu den absoluten Kundenfavoriten. Schütze dein Smartphone mit den Favoriten unserer Kunden und finde dein perfektes Case!<\/p>","link_url":"shopify:\/\/collections\/bestseller-hullen","button_label":"Zu den Bestsellern","color_scheme":"1","button_style":"btn btn--primary"}},"product_list_zrLPUc":{"type":"product-list","custom_css":[".os-scrollbar-horizontal {height: 25px !important;}"],"settings":{"title":"","heading_align":"text-center","view_all_url":"","product_list":"{{ metaobjects.bestseller_schutzfolien[\"bestseller-schutzfolien-ontgidjs\"].bsf.value }}","layout":"carousel","card_size_mobile":"small","card_size":"small","show_highlight_products":false,"show_promo_info":true,"image_ratio":"natural","promo_title":"Glasklare Favoriten","content":"<p>Finde heraus, welche Schutzfolien unsere Kunden am meisten schätzen – von Panzerglas bis Anti-Spy für jeden Bedarf. Keine Kompromisse beim Schutz: Diese Bestseller bieten höchste Qualität, perfekte Passgenauigkeit und kristallklare Sicht.<\/p>","link_url":"shopify:\/\/collections\/bestseller-schutzfolien","button_label":"Zu den Bestsellern","color_scheme":"1","button_style":"btn btn--primary"}},"product_list_UjnMGe":{"type":"product-list","custom_css":[".os-scrollbar-horizontal {height: 25px !important;}"],"settings":{"title":"","heading_align":"text-center","view_all_url":"","product_list":"{{ metaobjects.bestseller_elektronik[\"bestseller-elektronik-sdx1qkxy\"].bestseller_elektronik.value }}","layout":"carousel","card_size_mobile":"small","card_size":"small","show_highlight_products":false,"show_promo_info":true,"image_ratio":"fill","promo_title":"Must-Have-Gadgets","content":"<p>Ob Ladekabel, Powerbanks oder Wireless-Charging – diese Technik-Highlights bieten Qualität und Komfort für deinen Alltag. Vom Schnellladegerät bis zur Halterung – unsere Bestseller sorgen für eine optimale Nutzung deiner Geräte.<\/p>","link_url":"shopify:\/\/collections\/bestseller-elektronik","button_label":"Zu den Bestsellern","color_scheme":"1","button_style":"btn btn--primary"}},"custom_liquid_jVfqB7":{"type":"custom-liquid","name":"Custom HTML\/Liquid","settings":{"custom_liquid":"<!DOCTYPE html>\n<html lang=\"de\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Shopify Sektion<\/title>\n  <style>\n    \/* Container für den Titel und die Linie *\/\n    .section-wrapper {\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      flex-direction: column;\n      width: 100%;\n      margin: 20px auto;\n      padding: 10px;\n      text-align: center;\n      position: relative;\n    }\n\n    \/* Titel mit automatischer Größenanpassung *\/\n    .section-title {\n      font-size: clamp(24px, 5vw, 50px); \/* Passt sich automatisch an *\/\n      font-weight: bold;\n      color: #333;\n    }\n\n    \/* Orangener Strich *\/\n    .section-line {\n      width: 100%; \/* Standardmäßig volle Breite auf PCs *\/\n      height: 4px;\n      background-color: orange;\n      margin-top: 10px;\n    }\n\n    \/* Responsive Anpassung für Tablets & Mobile *\/\n    @media (max-width: 1024px) { \/* Tablet *\/\n      .section-line {\n        width: 80%; \/* Schmaler auf Tablets *\/\n        max-width: 300px;\n      }\n    }\n\n    @media (max-width: 768px) { \/* Mobile *\/\n      .section-line {\n        width: 90%; \/* Etwas schmaler auf kleineren Geräten *\/\n      }\n    }\n  <\/style>\n<\/head>\n<body>\n\n  <!-- Mehrfach nutzbare Sektion -->\n  <div class=\"section-wrapper\">\n    <h2 class=\"section-title\">Bundle der Woche<\/h2>\n    <div class=\"section-line\"><\/div>\n  <\/div>\n\n<\/body>\n<\/html>","section_height":"default","full_width":false,"dividers":"none","prevent_animation":false}},"product_features_xcmALE":{"type":"product-features","blocks":{"feature_M4RNW9":{"type":"feature","settings":{"image":"shopify:\/\/shop_images\/conie_mobile_energie_ladeger_C3_A4te_forcell_usb_typ_c_netzladegeraet_45w_detail_01.jpg","heading":"Forcell USB Typ-C 45W Netzteil","text":"<p><strong>Ladeart:<\/strong> Kabel<br\/><strong>Ladeleistung:<\/strong> 45W<br\/><\/p>","content_align":"text-start","hotspot_x":28,"hotspot_y":38}},"feature_9fmWP3":{"type":"feature","settings":{"image":"shopify:\/\/shop_images\/conie_mobile_hoco_ladekabel_x51_typ_c_weiss_1m_detail_5.jpg","heading":"Hoco USB Kabel","text":"<p><strong>Art:<\/strong> USB-C auf USB-C Kabel<br\/><strong>Länge:<\/strong> 1 Meter<\/p>","content_align":"text-start","hotspot_x":53,"hotspot_y":38}},"feature_xW9RCL":{"type":"feature","settings":{"image":"shopify:\/\/shop_images\/conie_mobile_joyroom_powerbanks_jr_w020_magsafe_weiss_detail_01.jpg","heading":"Joyroom - Powerbank","text":"<p><strong>Ladeart:<\/strong> Dual (Kabel & Wireless)<br\/><strong>Akkukapazität:<\/strong> 10,000 mAh            <strong>Ladeleistung:<\/strong> 18W<\/p>","content_align":"text-start","hotspot_x":73,"hotspot_y":38}}},"block_order":["feature_M4RNW9","feature_9fmWP3","feature_xW9RCL"],"custom_css":[".product-features {--hotspot-cross-color: #ffff;}","@media (min-width: 1024px) {.product-features {display: block; \/* Nur auf Desktop anzeigen *\/ max-width: 100% !important; margin: 0 auto; }}"],"name":"Product features","settings":{"product":"deal-der-woche-1","show_content":true,"layout":"text_first","text_align":"text-center","mob_center_text":false,"heading_size":"h1","enlarge_text":false,"image":"shopify:\/\/shop_images\/shoppable2_64d5259d-2bd2-40de-a59b-d20c069a3eea.webp","title":"","description":"<p>45W Netzteil für ultraschnelles Laden, 10.000 mAh MagSafe-Powerbank mit 18W Wireless Boost und 1 m USB-C-Kabel – das Bundle vereint Leistung, Design und Alltagstauglichkeit in ein Set, das einfach jeder braucht.<\/p>","button_label":"Zum Deal","button_link":"https:\/\/cjco652l3os4nj34-81663689043.shopifypreview.com\/products_preview?preview_key=04028717a033f4fcb4adf3f8eeffa816","hotspot_color":"#f19222","color_scheme":"none","button_style":"btn btn--primary"}},"custom_liquid_yBXyWg":{"type":"custom-liquid","settings":{"custom_liquid":"<div class=\"promo-strip\">\n  <div class=\"promo-text-wrapper\">\n    <div class=\"promo-text\">\n      <span style=\"font-size: 60px; font-weight: 900;\">\n        <span style=\"color: #7a7a7a;\">Cool<\/span><span style=\"color: #f19222;\">Gadget<\/span>\n      <\/span>\n      <span style=\"font-size: 40px; font-weight: 300;\"> - Dein Spezialist für Handyzubehör<\/span>\n    <\/div>\n    <div class=\"promo-text\">\n      <span style=\"font-size: 60px; font-weight: 900;\">\n        <span style=\"color: #7a7a7a;\">Cool<\/span><span style=\"color: #f19222;\">Gadget<\/span>\n      <\/span>\n      <span style=\"font-size: 40px; font-weight: 300;\"> - Dein Spezialist für Handyzubehör<\/span>\n    <\/div>\n    <div class=\"promo-text\">\n      <span style=\"font-size: 60px; font-weight: 900;\">\n        <span style=\"color: #7a7a7a;\">Cool<\/span><span style=\"color: #f19222;\">Gadget<\/span>\n      <\/span>\n      <span style=\"font-size: 40px; font-weight: 300;\"> - Dein Spezialist für Handyzubehör<\/span>\n    <\/div>\n  <\/div>\n<\/div>\n\n<style>\n  body, html {\n      margin: 0;\n      padding: 0;\n  }\n\n  .promo-strip {\n      width: 100%;\n      background: #FFFFFF;\n      color: black;\n      font-size: 15px;\n      font-weight: bold;\n      overflow: hidden;\n      height: auto;\n      display: flex;\n      align-items: center;\n      padding: 10px 0;\n      z-index: 9999;\n  }\n\n  .promo-text-wrapper {\n      display: flex;\n      white-space: nowrap;\n      animation: scrollText 10s linear infinite;\n      width: max-content;\n  }\n\n  .promo-text {\n      text-align: center;\n      padding-right: 50px;\n      flex-shrink: 0;\n  }\n\n  @keyframes scrollText {\n      from {\n          transform: translateX(0);\n      }\n      to {\n          transform: translateX(-33.33%);\n      }\n  }\n<\/style>","section_height":"xsmall","full_width":true,"dividers":"none","prevent_animation":true}},"custom_liquid_UCJDEG":{"type":"custom-liquid","settings":{"custom_liquid":"<!DOCTYPE html>\n<html lang=\"de\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Shopify Sektion<\/title>\n  <style>\n    \/* Container für den Titel und die Linie *\/\n    .section-wrapper {\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      flex-direction: column;\n      width: 100%;\n      margin: 20px auto;\n      padding: 10px;\n      text-align: center;\n      position: relative;\n    }\n\n    \/* Titel mit automatischer Größenanpassung *\/\n    .section-title {\n      font-size: clamp(24px, 5vw, 50px); \/* Passt sich automatisch an *\/\n      font-weight: bold;\n      color: #333;\n    }\n\n    \/* Orangener Strich *\/\n    .section-line {\n      width: 100%; \/* Standardmäßig volle Breite auf PCs *\/\n      height: 4px;\n      background-color: orange;\n      margin-top: 10px;\n    }\n\n    \/* Responsive Anpassung für Tablets & Mobile *\/\n    @media (max-width: 1024px) { \/* Tablet *\/\n      .section-line {\n        width: 80%; \/* Schmaler auf Tablets *\/\n        max-width: 300px;\n      }\n    }\n\n    @media (max-width: 768px) { \/* Mobile *\/\n      .section-line {\n        width: 90%; \/* Etwas schmaler auf kleineren Geräten *\/\n      }\n    }\n  <\/style>\n<\/head>\n<body>\n\n  <!-- Mehrfach nutzbare Sektion -->\n  <div class=\"section-wrapper\">\n    <h2 class=\"section-title\">Zubehör<\/h2>\n    <div class=\"section-line\"><\/div>\n  <\/div>\n\n<\/body>\n<\/html>","section_height":"default","full_width":false,"dividers":"none","prevent_animation":false}},"media_grid_8mJfGX":{"type":"media-grid","blocks":{"media_iQfV4X":{"type":"media","settings":{"image":"shopify:\/\/shop_images\/powerbank_46f1e508-7184-4622-934a-5b4aefbd1938.webp","link_url":"shopify:\/\/collections\/powerbanks","columns":1,"rows":1,"subheading":"","title":"","heading_size":"h4","button_label":"Powerbanks","button_link":"","overlay_position":"justify-start items-end","text_alignment":"text-start","button_style":"btn btn--primary","tint_color":"#000000","tint_opacity":0}},"media_8xipMh":{"type":"media","settings":{"image":"shopify:\/\/shop_images\/handy_smartphone_netzteile_verschiedene_varianten.webp","link_url":"shopify:\/\/collections\/ladegerate-netzteile","columns":1,"rows":1,"subheading":"","title":"","heading_size":"h4","button_label":"Ladegeräte","button_link":"","overlay_position":"justify-start items-end","text_alignment":"text-start","button_style":"btn btn--primary","tint_color":"#000000","tint_opacity":0}},"media_menpGA":{"type":"media","settings":{"image":"shopify:\/\/shop_images\/ladekabel_9f2d3882-18da-4afb-8516-e97e447a8767.webp","link_url":"shopify:\/\/collections\/kabel","columns":1,"rows":1,"subheading":"","title":"","heading_size":"h4","button_label":"Kabel","button_link":"","overlay_position":"justify-start items-end","text_alignment":"text-start","button_style":"btn btn--primary","tint_color":"#000000","tint_opacity":0}},"media_j7CVHq":{"type":"media","settings":{"image":"shopify:\/\/shop_images\/bluetoot_wireless_kopfhorer_schwarz_c70074d7-3b5c-4f9e-898b-bb37755f1fb8.webp","link_url":"shopify:\/\/collections\/kopfhorer-1","columns":1,"rows":1,"subheading":"","title":"","heading_size":"h4","button_label":"Kopfhörer","button_link":"","overlay_position":"justify-start items-end","text_alignment":"text-start","button_style":"btn btn--primary","tint_color":"#000000","tint_opacity":0}},"media_zQCXhB":{"type":"media","settings":{"image":"shopify:\/\/shop_images\/ladestation_3ba47a0e-5c3e-401d-a6f9-4fd337fe6214.webp","link_url":"shopify:\/\/collections\/ladestation","columns":1,"rows":1,"subheading":"","title":"","heading_size":"h4","button_label":"Ladestationen","button_link":"","overlay_position":"justify-start items-end","text_alignment":"text-start","button_style":"btn btn--primary","tint_color":"#000000","tint_opacity":0}},"media_6bdRBM":{"type":"media","settings":{"image":"shopify:\/\/shop_images\/Stander_ee9357fe-ceb2-4144-a005-20a5f84e3ace.webp","link_url":"shopify:\/\/collections\/halterungen-1","columns":1,"rows":1,"subheading":"","title":"","heading_size":"h4","button_label":"Halterungen","button_link":"","overlay_position":"justify-start items-end","text_alignment":"text-start","button_style":"btn btn--primary","tint_color":"#000000","tint_opacity":0}},"media_tn7qUn":{"type":"media","settings":{"image":"shopify:\/\/shop_images\/lautsprecher_e1c0b570-dccd-4ef5-ad48-a8ce609016ef.webp","link_url":"shopify:\/\/collections\/lautsprecher-1","columns":1,"rows":1,"subheading":"","title":"","heading_size":"h4","button_label":"Lautsprecher","button_link":"","overlay_position":"justify-start items-end","text_alignment":"text-start","button_style":"btn btn--primary","tint_color":"#000000","tint_opacity":0}},"media_aUYGnk":{"type":"media","settings":{"image":"shopify:\/\/shop_images\/pc_zubehor_4632208e-0d13-4c7e-8862-b79772a3bdce.webp","link_url":"shopify:\/\/collections\/pc-zubehor-1","columns":1,"rows":1,"subheading":"","title":"","heading_size":"h4","button_label":"PC-Zubehör","button_link":"","overlay_position":"justify-start items-end","text_alignment":"text-start","button_style":"btn btn--primary","tint_color":"#000000","tint_opacity":0}}},"block_order":["media_iQfV4X","media_8xipMh","media_menpGA","media_j7CVHq","media_zQCXhB","media_6bdRBM","media_tn7qUn","media_aUYGnk"],"custom_css":[".media {}",".gallery-block__image {border: 1px solid rgba(255, 255, 255, 0.4); border-radius: 16px; background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(6px); overflow: hidden; transition: transform 0.3s ease, backdrop-filter 0.3s ease;}",".hover\\:grow-media:hover .gallery-block__image {transform: scale(1.05); backdrop-filter: blur(10px);}"],"settings":{"title":"","heading_align":"text-center","button_label":"","button_link":"","gallery_cols_max":4,"mobile_carousel":false,"gallery_cols_min":"1","fixed_height_desktop":280,"fixed_height_mobile":300,"section_color_scheme":"1","color_scheme":"white","transparent_content_color":"#f19222"}},"media_grid_3THhfd":{"type":"media-grid","blocks":{"media_ACJjBp":{"type":"media","settings":{"image":"shopify:\/\/shop_images\/tablet_klapphuelle_schwarz.webp","link_url":"shopify:\/\/collections\/tablethulle","columns":2,"rows":2,"subheading":"","title":"","heading_size":"h4","button_label":"Tablethüllen","button_link":"","overlay_position":"justify-start items-end","text_alignment":"text-start","button_style":"btn btn--primary","tint_color":"#000000","tint_opacity":0}},"media_twzMkE":{"type":"media","settings":{"image":"shopify:\/\/shop_images\/tabletfolien.webp","link_url":"shopify:\/\/collections\/tablet-schutzfolie-101","columns":2,"rows":2,"subheading":"","title":"","heading_size":"h4","button_label":"Tabletschutzfolien","button_link":"","overlay_position":"justify-start items-end","text_alignment":"text-start","button_style":"btn btn--primary","tint_color":"#000000","tint_opacity":0}}},"block_order":["media_ACJjBp","media_twzMkE"],"custom_css":[".media {}",".gallery-block__image {border: 1px solid rgba(255, 255, 255, 0.4); border-radius: 16px; background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(6px); overflow: hidden; transition: transform 0.3s ease, backdrop-filter 0.3s ease;}",".hover\\:grow-media:hover .gallery-block__image {transform: scale(1.05); backdrop-filter: blur(10px);}"],"settings":{"title":"","heading_align":"text-start","button_label":"","button_link":"","gallery_cols_max":4,"mobile_carousel":false,"gallery_cols_min":"1","fixed_height_desktop":300,"fixed_height_mobile":300,"section_color_scheme":"1","color_scheme":"white","transparent_content_color":"#f19222"}},"custom_liquid_XfUpqN":{"type":"custom-liquid","settings":{"custom_liquid":"<!DOCTYPE html>\n<html lang=\"de\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Shopify Sektion<\/title>\n  <style>\n    \/* Container für den Titel und die Linie *\/\n    .section-wrapper {\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      flex-direction: column;\n      width: 100%;\n      margin: 20px auto;\n      padding: 10px;\n      text-align: center;\n      position: relative;\n    }\n\n    \/* Titel mit automatischer Größenanpassung *\/\n    .section-title {\n      font-size: clamp(24px, 5vw, 50px); \/* Passt sich automatisch an *\/\n      font-weight: bold;\n      color: #333;\n    }\n\n    \/* Orangener Strich *\/\n    .section-line {\n      width: 100%; \/* Standardmäßig volle Breite auf PCs *\/\n      height: 4px;\n      background-color: orange;\n      margin-top: 10px;\n    }\n\n    \/* Responsive Anpassung für Tablets & Mobile *\/\n    @media (max-width: 1024px) { \/* Tablet *\/\n      .section-line {\n        width: 80%; \/* Schmaler auf Tablets *\/\n        max-width: 300px;\n      }\n    }\n\n    @media (max-width: 768px) { \/* Mobile *\/\n      .section-line {\n        width: 90%; \/* Etwas schmaler auf kleineren Geräten *\/\n      }\n    }\n  <\/style>\n<\/head>\n<body>\n\n  <!-- Mehrfach nutzbare Sektion -->\n  <div class=\"section-wrapper\">\n    <h2 class=\"section-title\">Schon gesehen?<\/h2>\n    <div class=\"section-line\"><\/div>\n  <\/div>\n\n<\/body>\n<\/html>","section_height":"default","full_width":false,"dividers":"none","prevent_animation":false}},"multi_column_hmJ8Ln":{"type":"multi-column","blocks":{"column_ReYWmD":{"type":"column","settings":{"enable_media":true,"image":"shopify:\/\/shop_images\/conie_mobile_joyroom_ladekabel_pvc_usb_c_auf_usb_c_S-CC060A9_weiss_detail_01.jpg","media_scale":100,"heading":"Kabel & Verbindung","text":"<ul><li><a href=\"\/collections\/usb-c-kabel\" title=\"USB-C Kabel\">USB-C Kabel<\/a><\/li><li><a href=\"\/collections\/micro-usb\" title=\"Micro-USB\">Micro-USB Kabel<\/a><\/li><li><a href=\"\/collections\/lightning-kabel\" title=\"Lightning Kabel\">Lightning Kabel<\/a><\/li><li><a href=\"\/collections\/hdmi-kabel\" title=\"HDMI Kabel\">HDMI Kabel<\/a><\/li><\/ul>","button_label":"Alle anzeigen","button_link":""}},"column_nMWrBz":{"type":"column","settings":{"enable_media":true,"image":"shopify:\/\/shop_images\/conie_mobile_energie_ladeger_C3_A4te_b16_3in1_wireless_charger_station_mit_magsafe_schwarz_detail_01.jpg","media_scale":100,"heading":"Energie & Laden","text":"<ul><li><a href=\"\/collections\/netzteile\" title=\"Netzteile\">Netzteile<\/a><\/li><li><a href=\"\/collections\/ladestation\" title=\"Ladestationen\">Ladestationen<\/a><\/li><li><a href=\"\/collections\/powerbanks\" title=\"Powerbanks\">Powerbanks<\/a><\/li><li><a href=\"\/collections\/kfz-ladegerate\" title=\"KFZ Ladegeräte\">KFZ Ladegeräte<br\/><\/a><\/li><\/ul>","button_label":"","button_link":""}},"column_hznJYL":{"type":"column","settings":{"enable_media":true,"image":"shopify:\/\/shop_images\/conie_mobile_joyroom_halterungen_bike_lenker_jr-zs266_detail_01.jpg","media_scale":100,"heading":"Office & Zubehör","text":"<ul><li><a href=\"\/collections\/tastaturen\" title=\"Tastaturen\">Tastatur & Maus<\/a><\/li><li><a href=\"\/collections\/sound\" title=\"Sound\">Sound<\/a><\/li><li><a href=\"\/collections\/halterungen-1\" title=\"Halterungen\">Halterungen<\/a><\/li><li><a href=\"\/collections\/netzwerkkabel\" title=\"Netzwerkkabel\">LAN-Kabel<br\/><\/a><\/li><\/ul>","button_label":"","button_link":""}}},"block_order":["column_ReYWmD","column_nMWrBz","column_hznJYL"],"custom_css":[".multi-column a {text-decoration: none;}"],"settings":{"title":"","heading_align":"text-start","button_label":"","button_link":"","layout":"carousel","column_size":"medium","column_align":"left","media_align":"text-center","image_ratio":"1","color_scheme":"3","button_style":"btn btn--secondary"}},"custom_liquid_7JeTwH":{"type":"custom-liquid","settings":{"custom_liquid":"<!DOCTYPE html>\n<html lang=\"de\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Shopify Sektion<\/title>\n  <style>\n    \/* Container für den Titel und die Linie *\/\n    .section-wrapper {\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      flex-direction: column;\n      width: 100%;\n      margin: 20px auto;\n      padding: 10px;\n      text-align: center;\n      position: relative;\n    }\n\n    \/* Titel mit automatischer Größenanpassung *\/\n    .section-title {\n      font-size: clamp(24px, 5vw, 50px); \/* Automatisch skalierbar *\/\n      font-weight: bold;\n      color: #333;\n      margin-bottom: 5px;\n    }\n\n    \/* Untertitel mit dynamischer Anpassung *\/\n    .section-subtitle {\n      font-size: clamp(14px, 2.5vw, 22px); \/* Anpassbar für verschiedene Geräte *\/\n      color: #666;\n      margin-bottom: 10px;\n      max-width: 80%;\n    }\n\n    \/* Orangener Strich *\/\n    .section-line {\n      width: 100%; \/* Standardmäßig volle Breite *\/\n      height: 4px;\n      background-color: orange;\n      margin-top: 10px;\n    }\n\n    \/* Responsive Anpassung für Tablets & Mobile *\/\n    @media (max-width: 1024px) { \/* Tablet *\/\n      .section-line {\n        width: 80%; \/* Schmaler auf Tablets *\/\n        max-width: 300px;\n      }\n    }\n\n    @media (max-width: 768px) { \/* Mobile *\/\n      .section-line {\n        width: 90%; \/* Schmaler auf Smartphones *\/\n      }\n\n      .section-subtitle {\n        max-width: 90%;\n      }\n    }\n  <\/style>\n<\/head>\n<body>\n\n  <!-- Mehrfach nutzbare Sektion -->\n  <div class=\"section-wrapper\">\n    <h2 class=\"section-title\">Zubehör für die beliebtesten Handymodelle<\/h2>\n    <p class=\"section-subtitle\">\n      Schütze dein Gerät mit Stil: Entdecke unsere Sammlung hochwertigen Zubehörs für die beliebtesten Modelle der letzten Jahre.\n    <\/p>\n    <div class=\"section-line\"><\/div>\n  <\/div>\n\n<\/body>\n<\/html>","section_height":"default","full_width":false,"dividers":"none","prevent_animation":false}},"collection_list_waqPkB":{"type":"collection-list","blocks":{"collection_dR9HqN":{"type":"collection","settings":{"collection":"iphone-16","image":"shopify:\/\/shop_images\/iPhone_16_37303fbc-4d00-4db6-b4ce-5b6bb42687de.webp"}},"collection_9F383H":{"type":"collection","settings":{"collection":"iphone-16-plus","image":"shopify:\/\/shop_images\/iPhone_16_37303fbc-4d00-4db6-b4ce-5b6bb42687de.webp"}},"collection_7dRefF":{"type":"collection","settings":{"collection":"iphone-16-pro","image":"shopify:\/\/shop_images\/iPhone_16_Pro_88d80e9e-6825-4517-a84a-a932278809e6.webp"}},"collection_4rCxKn":{"type":"collection","settings":{"collection":"iphone-16-pro-max","image":"shopify:\/\/shop_images\/iPhone_16_37303fbc-4d00-4db6-b4ce-5b6bb42687de.webp"}},"collection_wp3QP7":{"type":"collection","settings":{"collection":"iphone-15","image":"shopify:\/\/shop_images\/iPhone_15.webp"}},"collection_wh6wrj":{"type":"collection","settings":{"collection":"iphone-15-pro","image":"shopify:\/\/shop_images\/iPhone_15_Pro_Max.webp"}},"collection_XzgwL7":{"type":"collection","settings":{"collection":"iphone-15-pro-max","image":"shopify:\/\/shop_images\/iPhone_15_Pro_Max.webp"}},"collection_xW9JPU":{"type":"collection","settings":{"collection":"iphone-14","image":"shopify:\/\/shop_images\/iPhone_13.webp"}},"collection_naeQM3":{"type":"collection","settings":{"collection":"iphone-14-pro","image":"shopify:\/\/shop_images\/iPhone_14_Pro_Max_7824c080-45ae-4081-924d-96df8d20000c.webp"}},"collection_MkmLTM":{"type":"collection","settings":{"collection":"iphone-14-pro-max","image":"shopify:\/\/shop_images\/iPhone_14_Pro_Max.webp"}},"collection_R6wkrY":{"type":"collection","settings":{"collection":"iphone-13","image":"shopify:\/\/shop_images\/iPhone_13.webp"}},"collection_FiPe6k":{"type":"collection","settings":{"collection":"iphone-13-pro-max","image":"shopify:\/\/shop_images\/iPhone_13_Pro_Max.webp"}}},"block_order":["collection_dR9HqN","collection_9F383H","collection_7dRefF","collection_4rCxKn","collection_wp3QP7","collection_wh6wrj","collection_XzgwL7","collection_xW9JPU","collection_naeQM3","collection_MkmLTM","collection_R6wkrY","collection_FiPe6k"],"custom_css":[".os-scrollbar-horizontal {height: 25px !important;}"],"settings":{"title":"","heading_align":"text-start","button_label":"","button_link":"","layout":"carousel","card_size":"small","use_product_image":false,"circle_image":false,"show_border":false,"color_scheme":"none","full_width":true}},"collection_list_tyJRRK":{"type":"collection-list","blocks":{"collection_WDt79X":{"type":"collection","settings":{"collection":"galaxy-s25","image":"shopify:\/\/shop_images\/S25.webp"}},"collection_REwX89":{"type":"collection","settings":{"collection":"galaxy-s25-plus","image":"shopify:\/\/shop_images\/S25.webp"}},"collection_CNmrCG":{"type":"collection","settings":{"collection":"galaxy-s25-ultra","image":"shopify:\/\/shop_images\/s25_ultra.webp"}},"collection_ymAj3b":{"type":"collection","settings":{"collection":"galaxy-s24","image":"shopify:\/\/shop_images\/samsung_galaxy_S24.webp"}},"collection_DemcAA":{"type":"collection","settings":{"collection":"galaxy-s24-ultra","image":"shopify:\/\/shop_images\/samsung-galaxy-s24-ultra.webp"}},"collection_B77WVe":{"type":"collection","settings":{"collection":"galaxy-s23-ultra","image":"shopify:\/\/shop_images\/samsung_galaxy_S23_ultra.webp"}},"collection_xFpPgc":{"type":"collection","settings":{"collection":"galaxy-a55-5g","image":"shopify:\/\/shop_images\/samsung_galaxy_A55.webp"}},"collection_3tfnYi":{"type":"collection","settings":{"collection":"galaxy-a23-5g","image":"shopify:\/\/shop_images\/samsung_galaxy_A23.webp"}},"collection_93aA9h":{"type":"collection","settings":{"collection":"galaxy-a14-5g","image":"shopify:\/\/shop_images\/samsung_galaxy_A14.webp"}},"collection_qMKD4B":{"type":"collection","settings":{"collection":"galaxy-a13-5g","image":"shopify:\/\/shop_images\/samsung_galaxy_A13_5G.webp"}},"collection_XFCChR":{"type":"collection","settings":{"collection":"galaxy-a03","image":"shopify:\/\/shop_images\/samsung_galaxy_A03.webp"}}},"block_order":["collection_WDt79X","collection_REwX89","collection_CNmrCG","collection_ymAj3b","collection_DemcAA","collection_B77WVe","collection_xFpPgc","collection_3tfnYi","collection_93aA9h","collection_qMKD4B","collection_XFCChR"],"custom_css":[".os-scrollbar-horizontal {height: 25px !important;}"],"settings":{"title":"","heading_align":"text-start","button_label":"","button_link":"","layout":"carousel","card_size":"small","use_product_image":false,"circle_image":false,"show_border":false,"color_scheme":"none","full_width":true}},"collection_list_C6FCwL":{"type":"collection-list","blocks":{"collection_CDDUCV":{"type":"collection","settings":{"collection":"xiaomi-15","image":"shopify:\/\/shop_images\/xiaomi_15.webp"}},"collection_abYkUg":{"type":"collection","settings":{"collection":"xiaomi-14t-pro","image":"shopify:\/\/shop_images\/Xiaomi_14.webp"}},"collection_EQ7qzE":{"type":"collection","settings":{"collection":"xiaomi-14","image":"shopify:\/\/shop_images\/Xiaomi_14.webp"}},"collection_nKtcjn":{"type":"collection","settings":{"collection":"redmi-note-13-pro-5g-1","image":"shopify:\/\/shop_images\/Xiaomi_Redmi_Note_13_5G.webp"}},"collection_ze8wXL":{"type":"collection","settings":{"collection":"huawei-p50-pro","image":"shopify:\/\/shop_images\/huawei_p50_pro.webp"}},"collection_8G9QAq":{"type":"collection","settings":{"collection":"huawei-p50-pocket","image":"shopify:\/\/shop_images\/huawei_p50_pocket.webp"}},"collection_fnUQdc":{"type":"collection","settings":{"collection":"pixel-8-pro","image":"shopify:\/\/shop_images\/google_pixel_8_pro.webp"}},"collection_Lwek47":{"type":"collection","settings":{"collection":"pixel-8a","image":"shopify:\/\/shop_images\/google_pixel_8a.webp"}}},"block_order":["collection_CDDUCV","collection_abYkUg","collection_EQ7qzE","collection_nKtcjn","collection_ze8wXL","collection_8G9QAq","collection_fnUQdc","collection_Lwek47"],"custom_css":[".os-scrollbar-horizontal {height: 25px !important;}"],"settings":{"title":"","heading_align":"text-start","button_label":"","button_link":"","layout":"carousel","card_size":"small","use_product_image":false,"circle_image":false,"show_border":false,"color_scheme":"none","full_width":true}},"testimonials_M6a3hF":{"type":"testimonials","blocks":{"testimonial_9cdYqT":{"type":"testimonial","settings":{"testimonial":"<p>Gute Auswahl auch für ein älteres Handy!<br\/>Ware wurde ohne Probleme abgewickelt und die Lieferung war immer schnell.<\/p>","author":"Thorsten W.","author_info":"","show_star_rating":true,"star_rating":5}},"testimonial_qRFUt6":{"type":"testimonial","settings":{"testimonial":"<p>Habe schon öfter bestellt die Lieferung ging immer schnell. Die Ware war<br\/> immer einwandfrei und selbst ein Umtausch nach falscher Bestellung <br\/>meinerseits wurde problemlos abgewickelt.<\/p>","author":"Klaus","author_info":"","show_star_rating":true,"star_rating":5}},"testimonial_6ncbMK":{"type":"testimonial","settings":{"testimonial":"<p>Das Produkt kam hochwertig verpackt an und entspricht genau der <br\/>Beschreibung vom Händler und meiner Vorstellung. Die Kommunikation war <br\/>sehr freundlich und professionell.<\/p>","author":"Antje N.","author_info":"","show_star_rating":true,"star_rating":5}},"testimonial_tgWfN3":{"type":"testimonial","settings":{"testimonial":"<p>Freitag morgen bestellt und Samstag morgen in der Post- mehr muß man <br\/>dazu wohl nicht sagen. Außerdem top Qualität der Handyhülle. Besser geht<br\/> nun wirklich nicht.<\/p>","author":"Karl-Heinz H.","author_info":"","show_star_rating":true,"star_rating":5}},"testimonial_eJanDg":{"type":"testimonial","settings":{"testimonial":"<p>Einfache Handhabung und irrsinnig große Auswahl an Produkten. Lieferung <br\/>schnell und korrekt. Bin seit längerer Zeit Kunde und hatte bis heute <br\/>keine negativen Erfahrungen gemacht. Daumen hoch!<\/p>","author":"Christian","author_info":"","show_star_rating":true,"star_rating":5}}},"block_order":["testimonial_9cdYqT","testimonial_qRFUt6","testimonial_6ncbMK","testimonial_tgWfN3","testimonial_eJanDg"],"custom_css":[],"settings":{"heading":"Kundenrezensionen","show_quotes":true,"testimonial_size":"h5","text_position":"justify-center","text_align":"text-center justify-center","nav_style":"slideshow_nav_dots","transition":"slide-fade","autoplay":true,"slider_pause":true,"autoplay_speed":5,"color_scheme":"default","full_width":true}},"17447813695c132c6e":{"type":"apps","blocks":{"sledge_happy_customers_page_wmeAmX":{"type":"shopify:\/\/apps\/sledge\/blocks\/happy-customers-page\/213c3487-6448-44c0-baa7-868f58d5291d","disabled":true,"settings":{"max_width":1180}}},"block_order":["sledge_happy_customers_page_wmeAmX"],"disabled":true,"settings":{"full_width":false}}},"order":["pop_up_KP7wf3","slideshow_JPRaTA","custom_liquid_hn8NRM","custom_slideshow_8HJzrB","custom_liquid_cBDWBj","media_grid_AAgGk7","custom_liquid_kMymAy","custom_liquid_yCF49d","product_list_FDckHN","product_list_zrLPUc","product_list_UjnMGe","custom_liquid_jVfqB7","product_features_xcmALE","custom_liquid_yBXyWg","custom_liquid_UCJDEG","media_grid_8mJfGX","media_grid_3THhfd","custom_liquid_XfUpqN","multi_column_hmJ8Ln","custom_liquid_7JeTwH","collection_list_waqPkB","collection_list_tyJRRK","collection_list_C6FCwL","testimonials_M6a3hF","17447813695c132c6e"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "pop_up_KP7wf3": {
+      "type": "pop-up",
+      "blocks": {
+        "heading_9xENFm": {
+          "type": "heading",
+          "settings": {
+            "heading": "Neuer Look, fette Prozente!",
+            "heading_size": "h2"
+          }
+        },
+        "subheading_nGkDLD": {
+          "type": "subheading",
+          "settings": {
+            "text": "15 % auf (fast) alles – außer auf Elektronik."
+          }
+        },
+        "text_DeTBhc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unser Shop glänzt im neuen Design – und du bekommst den Rabatt!<br/><br/>Nur kurz da, genau wie deine <strong>alte Hülle</strong>...<br/><br/></p>",
+            "text_size": ""
+          }
+        },
+        "countdown_7dxKr8": {
+          "type": "countdown",
+          "settings": {
+            "end_date": "",
+            "end_time": "",
+            "end_text": "",
+            "enlarge_end_text": false,
+            "hide_on_end": false,
+            "countdown_size": "24",
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "count_bg_color": "#070707",
+            "count_bg_grad": ""
+          }
+        },
+        "discount_Mgi9KG": {
+          "type": "discount",
+          "settings": {
+            "discount_code": "CG2025"
+          }
+        }
+      },
+      "block_order": [
+        "heading_9xENFm",
+        "subheading_nGkDLD",
+        "text_DeTBhc",
+        "countdown_7dxKr8",
+        "discount_Mgi9KG"
+      ],
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "trigger": "delay",
+        "delay": 5,
+        "show_to_guests_only": true,
+        "show_on_mobile": true,
+        "dismiss_days": 30,
+        "position": "justify-center items-center",
+        "text_align": "text-center",
+        "padding": "small",
+        "shrink_width": true,
+        "heading_color": "#070707",
+        "text_color": "#070707",
+        "bg_color": "#ffffff",
+        "bg_grad": "",
+        "tint_opacity": 0
+      }
+    },
+    "slideshow_JPRaTA": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_3xWxYt": {
+          "type": "slide",
+          "settings": {
+            "image_desktop": "shopify://shop_images/magsafeweb.webp",
+            "image_mobile": "shopify://shop_images/magsafe112.webp",
+            "url": "",
+            "overlay_position": "justify-end items-center",
+            "overlay_text_align": "text-end",
+            "mob_center_text": false,
+            "subheading": "Deine Hülle mit Anziehungskraft: Stylisch, sicher, sofort verbunden.",
+            "heading": "Magnetisch sicher. Unglaublich stylisch. Typisch du.",
+            "heading_size": "h3",
+            "heading_h1": false,
+            "text": "<p>Du suchst 'ne Hülle, die nicht nur schützt, sondern auch magnetisch gut aussieht? Unsere MagSafe-Hüllen verbinden Style mit Funktion: Perfekt ausgerichtet, stark haftend, kabellos ladend. Für iPhone & Samsung-Liebhaber, die keine halben Sachen wollen.</p>",
+            "enlarge_text": false,
+            "button_1_label": "Jetzt Lieblingshülle finden",
+            "button_1_link": "shopify://collections/magsafe",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "transparent_content_color": "#ffffff",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#b40c1c",
+            "bg_grad": ""
+          }
+        },
+        "slide_DdaiNr": {
+          "type": "slide",
+          "settings": {
+            "image_desktop": "shopify://shop_images/headertest1.0_d9c53382-a5f8-4674-bdf9-414cba150db7.webp",
+            "image_mobile": "shopify://shop_images/rueckschalenfarbig.webp",
+            "url": "",
+            "overlay_position": "justify-end items-center",
+            "overlay_text_align": "text-center",
+            "mob_center_text": false,
+            "subheading": "Finde deine perfekte Hülle – bunt, robust, passgenau.",
+            "heading": "Handyhüllen in starken Farben – Schutz trifft Style",
+            "heading_size": "h3",
+            "heading_h1": false,
+            "text": "<p>Ob Schwarz, Rot, Rosa, Mint oder Gelb – hier findest du deine farbige Schutzhülle mit perfektem Sitz und starkem Schutz.</p>",
+            "enlarge_text": false,
+            "button_1_label": "Jetzt Lieblingshülle finden",
+            "button_1_link": "shopify://collections/handy-ruckschale",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "transparent_content_color": "#ffffff",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": true,
+            "count_color": "#ffffff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        },
+        "slide_d6QMwR": {
+          "type": "slide",
+          "settings": {
+            "image_desktop": "shopify://shop_images/klapptaschenheader.webp",
+            "image_mobile": "shopify://shop_images/mobileklapp1webp.webp",
+            "url": "",
+            "overlay_position": "justify-end items-center",
+            "overlay_text_align": "text-end",
+            "mob_center_text": false,
+            "subheading": "Alles in einer Hülle & einem Griff, einfach Klapptastisch!",
+            "heading": "Klappt auf, sieht gut aus, schützt besser.",
+            "heading_size": "h3",
+            "heading_h1": false,
+            "text": "<p>Elegantes Design trifft funktionalen Rundum-Schutz – mit Kartenfächern, Magnetverschluss & smarter Aufstellfunktion.</p>",
+            "enlarge_text": false,
+            "button_1_label": "Jetzt Lieblingshülle finden",
+            "button_1_link": "shopify://collections/handy-klapphulle-1",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "transparent_content_color": "#ffffff",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        },
+        "slide_rK8NbQ": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image_desktop": "shopify://shop_images/BasicTPU.webp",
+            "image_mobile": "shopify://shop_images/basictpumobile.webp",
+            "url": "",
+            "overlay_position": "justify-center items-center",
+            "overlay_text_align": "text-start",
+            "mob_center_text": false,
+            "subheading": "Ladekabel, Netzteile & Powerbanks",
+            "heading": "Zuverlässige Energie – jederzeit & überall",
+            "heading_size": "h2",
+            "heading_h1": false,
+            "text": "<p>Bleiben Sie stets verbunden mit leistungsstarken Ladekabeln, Netzteilen und Powerbanks. Für schnelles und sicheres Laden – ob zu Hause oder unterwegs.</p>",
+            "enlarge_text": false,
+            "button_1_label": "Jetzt Ladegeräte & Netzteile entdecken",
+            "button_1_link": "shopify://collections/ladegerate-netzteile",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "transparent_content_color": "#ffffff",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_3xWxYt",
+        "slide_DdaiNr",
+        "slide_d6QMwR",
+        "slide_rK8NbQ"
+      ],
+      "custom_css": [
+        "img {border-radius: 30px; margin-top: 10px;}"
+      ],
+      "name": "Hauptbanner",
+      "settings": {
+        "height_mode": "screen",
+        "fixed_height_desktop": 400,
+        "fixed_height_mobile": 250,
+        "mobile_stacked": false,
+        "nav_style": "slideshow_nav_lines",
+        "pagination_color": "#f19222",
+        "nav_position": "justify-center",
+        "transition": "slide-fade",
+        "autoplay": true,
+        "slider_pause": true,
+        "autoplay_speed": 9,
+        "color_scheme": "1",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 0,
+        "accessibility_info": "Entdecke Hüllen und Handyzubehör, in allen Farben und vielfalt!",
+        "prevent_animation": true
+      }
+    },
+    "custom_liquid_hn8NRM": {
+      "type": "custom-liquid",
+      "name": "Custom HTML/Liquid",
+      "settings": {
+        "custom_liquid": "",
+        "section_height": "default",
+        "full_width": false,
+        "dividers": "none",
+        "prevent_animation": false
+      }
+    },
+    "custom_slideshow_8HJzrB": {
+      "type": "custom-slideshow",
+      "custom_css": [],
+      "settings": {
+        "quick_nav_menu": "modellauswahl",
+        "quick_nav_title": "Wähle dein Modell",
+        "quick_nav_image_ratio": "1",
+        "quick_nav_image_fit": "contain",
+        "quick_nav_use_product_image": false,
+        "quick_nav_color_scheme": "1",
+        "quick_nav_show_price": false,
+        "menu_1_text": "1. Hersteller",
+        "menu_1_display": "small_text",
+        "menu_2_text": "2. Serie",
+        "menu_2_display": "small_text",
+        "menu_3_text": "3. Modell",
+        "menu_3_display": "small_text"
+      }
+    },
+    "custom_liquid_cBDWBj": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<!DOCTYPE html>\n<html lang=\"de\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Animation mit Pfeil & Titel</title>\n  <style>\n    /* Gesamt-Container */\n    .animation-wrapper {\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      flex-direction: column;\n      width: 100%;\n      margin: 20px auto;\n      padding: 10px;\n      text-align: center;\n      position: relative;\n    }\n\n    /* Pfeil-Grafik */\n    .slide-image {\n      width: 15vw;\n      max-width: 100px;\n      height: auto;\n      opacity: 0;\n      transform: rotate(90deg) translateY(-30px);\n      transition: transform 0.5s ease-out, opacity 0.5s ease-out;\n    }\n\n    /* Titel, der aus dem Pfeil slidet */\n    .animated-title {\n      font-size: clamp(24px, 5vw, 60px);\n      font-weight: bold;\n      color: #333;\n      opacity: 0;\n      transform: translateY(-30px);\n      transition: transform 0.5s ease-out 0.5s, opacity 0.5s ease-out 0.5s;\n    }\n\n    /* Orangener Strich */\n    .animated-line {\n      width: 100%;\n      height: 4px;\n      background-color: orange;\n      margin-top: 10px;\n      opacity: 0;\n      transform: translateY(-20px);\n      transition: transform 0.5s ease-out 1s, opacity 0.5s ease-out 1s;\n    }\n\n    /* Animation aktivieren */\n    .animation-wrapper.active .slide-image {\n      opacity: 1;\n      transform: rotate(90deg) translateY(0);\n    }\n\n    .animation-wrapper.active .animated-title {\n      opacity: 1;\n      transform: translateY(0);\n    }\n\n    .animation-wrapper.active .animated-line {\n      opacity: 1;\n      transform: translateY(0);\n    }\n\n    /* Responsive Anpassungen */\n    @media (max-width: 1024px) {\n      .animated-line {\n        width: 80%;\n        max-width: 300px;\n      }\n    }\n\n    @media (max-width: 768px) {\n      .slide-image {\n        width: 20vw;\n        max-width: 80px;\n      }\n\n      .animated-title {\n        font-size: clamp(18px, 4vw, 50px);\n      }\n\n      .animated-line {\n        width: 90%;\n      }\n    }\n  </style>\n</head>\n<body>\n\n  <div class=\"animation-wrapper\" id=\"animationWrapper2\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0816/6368/9043/files/arrowmodern.svg?v=1740055818\" class=\"slide-image\" alt=\"Pfeil\">\n    <h2 class=\"animated-title\">Entdecke unser Sortiment</h2>\n    <div class=\"animated-line\"></div>\n  </div>\n\n  <script>\n    document.addEventListener(\"DOMContentLoaded\", function() {\n      setTimeout(function() {\n        document.getElementById(\"animationWrapper2\").classList.add(\"active\");\n      }, 800);\n    });\n  </script>\n\n</body>\n</html>",
+        "section_height": "default",
+        "full_width": false,
+        "dividers": "none",
+        "prevent_animation": false
+      }
+    },
+    "media_grid_AAgGk7": {
+      "type": "media-grid",
+      "blocks": {
+        "media_dG6q6j": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/klapphuellen_fuer_apple_samsung_xiaomi_und_mehr.webp",
+            "link_url": "shopify://collections/handy-klapphulle-1",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Klapphüllen",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "media_dd7jm8": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/farbenfrohe_bunte_handy_schutz_huellen_rueckschalen.webp",
+            "link_url": "shopify://collections/handy-ruckschale",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Rückschalen",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "media_4Rbbdr": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/panzerfolien_samsung_apple_huawei_xiaomi_google_uvm.webp",
+            "link_url": "shopify://collections/schutzfolie-101",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Schutzfolien",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "media_dG6q6j",
+        "media_dd7jm8",
+        "media_4Rbbdr"
+      ],
+      "custom_css": [
+        ".media {}",
+        ".gallery-block__image {border: 1px solid rgba(255, 255, 255, 0.4); border-radius: 16px; background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(6px); overflow: hidden; transition: transform 0.3s ease, backdrop-filter 0.3s ease, box-shadow 0.3s ease;}",
+        ".hover\\:grow-media:hover .gallery-block__image {transform: scale(1.05); backdrop-filter: blur(10px); box-shadow: 0 0 12px rgba(241, 146, 34, 0.4); /* stärkerer Glow beim Hover */}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 3,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 300,
+        "fixed_height_mobile": 280,
+        "section_color_scheme": "1",
+        "color_scheme": "white",
+        "transparent_content_color": "#f19222"
+      }
+    },
+    "custom_liquid_kMymAy": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<!DOCTYPE html>\n<html lang=\"de\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Shopify Sektion</title>\n  <style>\n    /* Container für den Titel und die Linie */\n    .section-wrapper {\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      flex-direction: column;\n      width: 100%;\n      margin: 20px auto;\n      padding: 10px;\n      text-align: center;\n      position: relative;\n    }\n\n    /* Titel mit automatischer Größenanpassung */\n    .section-title {\n      font-size: clamp(24px, 5vw, 50px); /* Passt sich von 24px (kleinste Größe) bis 50px (größte Größe) an */\n      font-weight: bold;\n      color: #333;\n    }\n\n    /* Orangener Strich */\n    .section-line {\n      width: 100%; /* Standardmäßig volle Breite auf PCs */\n      height: 4px;\n      background-color: orange;\n      margin-top: 10px;\n    }\n\n    /* Responsive Anpassung für Tablets & Mobile */\n    @media (max-width: 1024px) { /* Tablet */\n      .section-line {\n        width: 80%; /* Etwas schmaler auf Tablets */\n        max-width: 300px;\n      }\n    }\n\n    @media (max-width: 768px) { /* Mobile */\n      .section-line {\n        width: 90%; /* Etwas schmaler auf kleineren Geräten */\n      }\n    }\n  </style>\n</head>\n<body>\n\n  <!-- Mehrfach nutzbare Sektion -->\n  <div class=\"section-wrapper\">\n    <h2 class=\"section-title\">Unsere Kundenlieblinge</h2>\n    <div class=\"section-line\"></div>\n  </div>\n\n</body>\n</html>",
+        "section_height": "default",
+        "full_width": false,
+        "dividers": "none",
+        "prevent_animation": false
+      }
+    },
+    "custom_liquid_yCF49d": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"stats-container\">\n  <div class=\"stats-item\">\n    <div class=\"counter\" data-target=\"3500000\" data-plus=\"true\">0</div>\n    <div>zufriedene Kunden</div>\n  </div>\n  <div class=\"stats-item\">\n    <div class=\"counter\" data-target=\"2550500\" data-plus=\"true\">0</div>\n    <div>verkaufte Hüllen</div>\n  </div>\n  <div class=\"stats-item\">\n    <div class=\"counter\" data-target=\"475000\" data-plus=\"true\">0</div>\n    <div>verkaufte Schutzfolien</div>\n  </div>\n</div>\n\n<style>\n  .stats-container {\n    display: flex;\n    flex-wrap: wrap;\n    justify-content: center;\n  }\n\n  .stats-item {\n    flex: 1 1 200px;\n    min-width: 200px;\n    text-align: center;\n    margin-bottom: 0;\n  }\n\n  .counter {\n    font-size: 48px;\n    font-weight: bold;\n    color: #F19222;\n    line-height: 1;\n    transition: transform 0.3s ease;\n  }\n\n  .counter:hover {\n    transform: scale(1.2) \n  }\n\n  .stats-item div:last-child {\n    margin-top: 4px;\n    font-size: 16px;\n    line-height: 1.2;\n  }\n\n  @media (max-width: 768px) {\n    .stats-container {\n      flex-direction: column;\n      align-items: center;\n    }\n\n    .stats-item {\n      width: 100%;\n      max-width: 300px;\n    }\n\n    .stats-item:not(:last-child) {\n      margin-bottom: 8px;\n    }\n\n    .stats-item:last-child {\n      margin-bottom: 0;\n    }\n\n    .counter {\n      font-size: 36px;\n    }\n\n    .stats-item div:last-child {\n      font-size: 14px;\n      margin-top: 2px;\n    }\n  }\n</style>\n\n<script>\n  document.addEventListener(\"DOMContentLoaded\", () => {\n    const counters = document.querySelectorAll('.counter');\n\n    function animateCounter(counter) {\n      const target = +counter.dataset.target;\n      const hasPlus = counter.hasAttribute('data-plus');\n      let current = 0;\n      const increment = Math.ceil(target / 200);\n\n      const update = () => {\n        current = Math.min(current + increment, target);\n        counter.innerText = current.toLocaleString() + (hasPlus && current === target ? '+' : '');\n        if (current < target) setTimeout(update, 20);\n      };\n\n      update();\n    }\n\n    const observer = new IntersectionObserver(entries => {\n      entries.forEach(entry => {\n        if (entry.isIntersecting) {\n          animateCounter(entry.target);\n          observer.unobserve(entry.target);\n        }\n      });\n    }, { threshold: 0.5 });\n\n    counters.forEach(counter => observer.observe(counter));\n  });\n</script>",
+        "section_height": "tight",
+        "full_width": false,
+        "dividers": "none",
+        "prevent_animation": false
+      }
+    },
+    "product_list_FDckHN": {
+      "type": "product-list",
+      "custom_css": [
+        ".section__heading {padding-top: 50px; /* Abstand nach oben */ padding-bottom: 50px; /* Abstand nach unten */}",
+        " /* Horizontale Scrollbar-Höhe */.os-scrollbar-horizontal {height: 25px !important;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-center",
+        "view_all_url": "",
+        "product_list": "{{ metaobjects.bestseller[\"bestseller-xd4ohtkt\"].bsh.value }}",
+        "layout": "carousel",
+        "card_size_mobile": "small",
+        "card_size": "small",
+        "show_highlight_products": true,
+        "show_promo_info": true,
+        "image_ratio": "natural",
+        "promo_title": "Schützende Lieblinge",
+        "content": "<p>Robust, passgenau und stilvoll – diese Hüllen überzeugen mit Qualität und Design. Sie vereinen Funktionalität mit Ästhetik und zählen zu den absoluten Kundenfavoriten. Schütze dein Smartphone mit den Favoriten unserer Kunden und finde dein perfektes Case!</p>",
+        "link_url": "shopify://collections/bestseller-hullen",
+        "button_label": "Zu den Bestsellern",
+        "color_scheme": "1",
+        "button_style": "btn btn--primary"
+      }
+    },
+    "product_list_zrLPUc": {
+      "type": "product-list",
+      "custom_css": [
+        ".os-scrollbar-horizontal {height: 25px !important;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-center",
+        "view_all_url": "",
+        "product_list": "{{ metaobjects.bestseller_schutzfolien[\"bestseller-schutzfolien-ontgidjs\"].bsf.value }}",
+        "layout": "carousel",
+        "card_size_mobile": "small",
+        "card_size": "small",
+        "show_highlight_products": false,
+        "show_promo_info": true,
+        "image_ratio": "natural",
+        "promo_title": "Glasklare Favoriten",
+        "content": "<p>Finde heraus, welche Schutzfolien unsere Kunden am meisten schätzen – von Panzerglas bis Anti-Spy für jeden Bedarf. Keine Kompromisse beim Schutz: Diese Bestseller bieten höchste Qualität, perfekte Passgenauigkeit und kristallklare Sicht.</p>",
+        "link_url": "shopify://collections/bestseller-schutzfolien",
+        "button_label": "Zu den Bestsellern",
+        "color_scheme": "1",
+        "button_style": "btn btn--primary"
+      }
+    },
+    "product_list_UjnMGe": {
+      "type": "product-list",
+      "custom_css": [
+        ".os-scrollbar-horizontal {height: 25px !important;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-center",
+        "view_all_url": "",
+        "product_list": "{{ metaobjects.bestseller_elektronik[\"bestseller-elektronik-sdx1qkxy\"].bestseller_elektronik.value }}",
+        "layout": "carousel",
+        "card_size_mobile": "small",
+        "card_size": "small",
+        "show_highlight_products": false,
+        "show_promo_info": true,
+        "image_ratio": "fill",
+        "promo_title": "Must-Have-Gadgets",
+        "content": "<p>Ob Ladekabel, Powerbanks oder Wireless-Charging – diese Technik-Highlights bieten Qualität und Komfort für deinen Alltag. Vom Schnellladegerät bis zur Halterung – unsere Bestseller sorgen für eine optimale Nutzung deiner Geräte.</p>",
+        "link_url": "shopify://collections/bestseller-elektronik",
+        "button_label": "Zu den Bestsellern",
+        "color_scheme": "1",
+        "button_style": "btn btn--primary"
+      }
+    },
+    "custom_liquid_jVfqB7": {
+      "type": "custom-liquid",
+      "name": "Custom HTML/Liquid",
+      "settings": {
+        "custom_liquid": "<!DOCTYPE html>\n<html lang=\"de\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Shopify Sektion</title>\n  <style>\n    /* Container für den Titel und die Linie */\n    .section-wrapper {\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      flex-direction: column;\n      width: 100%;\n      margin: 20px auto;\n      padding: 10px;\n      text-align: center;\n      position: relative;\n    }\n\n    /* Titel mit automatischer Größenanpassung */\n    .section-title {\n      font-size: clamp(24px, 5vw, 50px); /* Passt sich automatisch an */\n      font-weight: bold;\n      color: #333;\n    }\n\n    /* Orangener Strich */\n    .section-line {\n      width: 100%; /* Standardmäßig volle Breite auf PCs */\n      height: 4px;\n      background-color: orange;\n      margin-top: 10px;\n    }\n\n    /* Responsive Anpassung für Tablets & Mobile */\n    @media (max-width: 1024px) { /* Tablet */\n      .section-line {\n        width: 80%; /* Schmaler auf Tablets */\n        max-width: 300px;\n      }\n    }\n\n    @media (max-width: 768px) { /* Mobile */\n      .section-line {\n        width: 90%; /* Etwas schmaler auf kleineren Geräten */\n      }\n    }\n  </style>\n</head>\n<body>\n\n  <!-- Mehrfach nutzbare Sektion -->\n  <div class=\"section-wrapper\">\n    <h2 class=\"section-title\">Bundle der Woche</h2>\n    <div class=\"section-line\"></div>\n  </div>\n\n</body>\n</html>",
+        "section_height": "default",
+        "full_width": false,
+        "dividers": "none",
+        "prevent_animation": false
+      }
+    },
+    "product_features_xcmALE": {
+      "type": "product-features",
+      "blocks": {
+        "feature_M4RNW9": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/conie_mobile_energie_ladeger_C3_A4te_forcell_usb_typ_c_netzladegeraet_45w_detail_01.jpg",
+            "heading": "Forcell USB Typ-C 45W Netzteil",
+            "text": "<p><strong>Ladeart:</strong> Kabel<br/><strong>Ladeleistung:</strong> 45W<br/></p>",
+            "content_align": "text-start",
+            "hotspot_x": 28,
+            "hotspot_y": 38
+          }
+        },
+        "feature_9fmWP3": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/conie_mobile_hoco_ladekabel_x51_typ_c_weiss_1m_detail_5.jpg",
+            "heading": "Hoco USB Kabel",
+            "text": "<p><strong>Art:</strong> USB-C auf USB-C Kabel<br/><strong>Länge:</strong> 1 Meter</p>",
+            "content_align": "text-start",
+            "hotspot_x": 53,
+            "hotspot_y": 38
+          }
+        },
+        "feature_xW9RCL": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/conie_mobile_joyroom_powerbanks_jr_w020_magsafe_weiss_detail_01.jpg",
+            "heading": "Joyroom - Powerbank",
+            "text": "<p><strong>Ladeart:</strong> Dual (Kabel & Wireless)<br/><strong>Akkukapazität:</strong> 10,000 mAh            <strong>Ladeleistung:</strong> 18W</p>",
+            "content_align": "text-start",
+            "hotspot_x": 73,
+            "hotspot_y": 38
+          }
+        }
+      },
+      "block_order": [
+        "feature_M4RNW9",
+        "feature_9fmWP3",
+        "feature_xW9RCL"
+      ],
+      "custom_css": [
+        ".product-features {--hotspot-cross-color: #ffff;}",
+        "@media (min-width: 1024px) {.product-features {display: block; /* Nur auf Desktop anzeigen */ max-width: 100% !important; margin: 0 auto; }}"
+      ],
+      "name": "Product features",
+      "settings": {
+        "product": "deal-der-woche-1",
+        "show_content": true,
+        "layout": "text_first",
+        "text_align": "text-center",
+        "mob_center_text": false,
+        "heading_size": "h1",
+        "enlarge_text": false,
+        "image": "shopify://shop_images/shoppable2_64d5259d-2bd2-40de-a59b-d20c069a3eea.webp",
+        "title": "",
+        "description": "<p>45W Netzteil für ultraschnelles Laden, 10.000 mAh MagSafe-Powerbank mit 18W Wireless Boost und 1 m USB-C-Kabel – das Bundle vereint Leistung, Design und Alltagstauglichkeit in ein Set, das einfach jeder braucht.</p>",
+        "button_label": "Zum Deal",
+        "button_link": "https://cjco652l3os4nj34-81663689043.shopifypreview.com/products_preview?preview_key=04028717a033f4fcb4adf3f8eeffa816",
+        "hotspot_color": "#f19222",
+        "color_scheme": "none",
+        "button_style": "btn btn--primary"
+      }
+    },
+    "custom_liquid_yBXyWg": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"promo-strip\">\n  <div class=\"promo-text-wrapper\">\n    <div class=\"promo-text\">\n      <span style=\"font-size: 60px; font-weight: 900;\">\n        <span style=\"color: #7a7a7a;\">Cool</span><span style=\"color: #f19222;\">Gadget</span>\n      </span>\n      <span style=\"font-size: 40px; font-weight: 300;\"> - Dein Spezialist für Handyzubehör</span>\n    </div>\n    <div class=\"promo-text\">\n      <span style=\"font-size: 60px; font-weight: 900;\">\n        <span style=\"color: #7a7a7a;\">Cool</span><span style=\"color: #f19222;\">Gadget</span>\n      </span>\n      <span style=\"font-size: 40px; font-weight: 300;\"> - Dein Spezialist für Handyzubehör</span>\n    </div>\n    <div class=\"promo-text\">\n      <span style=\"font-size: 60px; font-weight: 900;\">\n        <span style=\"color: #7a7a7a;\">Cool</span><span style=\"color: #f19222;\">Gadget</span>\n      </span>\n      <span style=\"font-size: 40px; font-weight: 300;\"> - Dein Spezialist für Handyzubehör</span>\n    </div>\n  </div>\n</div>\n\n<style>\n  body, html {\n      margin: 0;\n      padding: 0;\n  }\n\n  .promo-strip {\n      width: 100%;\n      background: #FFFFFF;\n      color: black;\n      font-size: 15px;\n      font-weight: bold;\n      overflow: hidden;\n      height: auto;\n      display: flex;\n      align-items: center;\n      padding: 10px 0;\n      z-index: 9999;\n  }\n\n  .promo-text-wrapper {\n      display: flex;\n      white-space: nowrap;\n      animation: scrollText 10s linear infinite;\n      width: max-content;\n  }\n\n  .promo-text {\n      text-align: center;\n      padding-right: 50px;\n      flex-shrink: 0;\n  }\n\n  @keyframes scrollText {\n      from {\n          transform: translateX(0);\n      }\n      to {\n          transform: translateX(-33.33%);\n      }\n  }\n</style>",
+        "section_height": "xsmall",
+        "full_width": true,
+        "dividers": "none",
+        "prevent_animation": true
+      }
+    },
+    "custom_liquid_UCJDEG": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<!DOCTYPE html>\n<html lang=\"de\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Shopify Sektion</title>\n  <style>\n    /* Container für den Titel und die Linie */\n    .section-wrapper {\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      flex-direction: column;\n      width: 100%;\n      margin: 20px auto;\n      padding: 10px;\n      text-align: center;\n      position: relative;\n    }\n\n    /* Titel mit automatischer Größenanpassung */\n    .section-title {\n      font-size: clamp(24px, 5vw, 50px); /* Passt sich automatisch an */\n      font-weight: bold;\n      color: #333;\n    }\n\n    /* Orangener Strich */\n    .section-line {\n      width: 100%; /* Standardmäßig volle Breite auf PCs */\n      height: 4px;\n      background-color: orange;\n      margin-top: 10px;\n    }\n\n    /* Responsive Anpassung für Tablets & Mobile */\n    @media (max-width: 1024px) { /* Tablet */\n      .section-line {\n        width: 80%; /* Schmaler auf Tablets */\n        max-width: 300px;\n      }\n    }\n\n    @media (max-width: 768px) { /* Mobile */\n      .section-line {\n        width: 90%; /* Etwas schmaler auf kleineren Geräten */\n      }\n    }\n  </style>\n</head>\n<body>\n\n  <!-- Mehrfach nutzbare Sektion -->\n  <div class=\"section-wrapper\">\n    <h2 class=\"section-title\">Zubehör</h2>\n    <div class=\"section-line\"></div>\n  </div>\n\n</body>\n</html>",
+        "section_height": "default",
+        "full_width": false,
+        "dividers": "none",
+        "prevent_animation": false
+      }
+    },
+    "media_grid_8mJfGX": {
+      "type": "media-grid",
+      "blocks": {
+        "media_iQfV4X": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/powerbank_46f1e508-7184-4622-934a-5b4aefbd1938.webp",
+            "link_url": "shopify://collections/powerbanks",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Powerbanks",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "media_8xipMh": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/handy_smartphone_netzteile_verschiedene_varianten.webp",
+            "link_url": "shopify://collections/ladegerate-netzteile",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Ladegeräte",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "media_menpGA": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/ladekabel_9f2d3882-18da-4afb-8516-e97e447a8767.webp",
+            "link_url": "shopify://collections/kabel",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Kabel",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "media_j7CVHq": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/bluetoot_wireless_kopfhorer_schwarz_c70074d7-3b5c-4f9e-898b-bb37755f1fb8.webp",
+            "link_url": "shopify://collections/kopfhorer-1",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Kopfhörer",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "media_zQCXhB": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/ladestation_3ba47a0e-5c3e-401d-a6f9-4fd337fe6214.webp",
+            "link_url": "shopify://collections/ladestation",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Ladestationen",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "media_6bdRBM": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Stander_ee9357fe-ceb2-4144-a005-20a5f84e3ace.webp",
+            "link_url": "shopify://collections/halterungen-1",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Halterungen",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "media_tn7qUn": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/lautsprecher_e1c0b570-dccd-4ef5-ad48-a8ce609016ef.webp",
+            "link_url": "shopify://collections/lautsprecher-1",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Lautsprecher",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "media_aUYGnk": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/pc_zubehor_4632208e-0d13-4c7e-8862-b79772a3bdce.webp",
+            "link_url": "shopify://collections/pc-zubehor-1",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "PC-Zubehör",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "media_iQfV4X",
+        "media_8xipMh",
+        "media_menpGA",
+        "media_j7CVHq",
+        "media_zQCXhB",
+        "media_6bdRBM",
+        "media_tn7qUn",
+        "media_aUYGnk"
+      ],
+      "custom_css": [
+        ".media {}",
+        ".gallery-block__image {border: 1px solid rgba(255, 255, 255, 0.4); border-radius: 16px; background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(6px); overflow: hidden; transition: transform 0.3s ease, backdrop-filter 0.3s ease;}",
+        ".hover\\:grow-media:hover .gallery-block__image {transform: scale(1.05); backdrop-filter: blur(10px);}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 280,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "1",
+        "color_scheme": "white",
+        "transparent_content_color": "#f19222"
+      }
+    },
+    "media_grid_3THhfd": {
+      "type": "media-grid",
+      "blocks": {
+        "media_ACJjBp": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/tablet_klapphuelle_schwarz.webp",
+            "link_url": "shopify://collections/tablethulle",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Tablethüllen",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "media_twzMkE": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/tabletfolien.webp",
+            "link_url": "shopify://collections/tablet-schutzfolie-101",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Tabletschutzfolien",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "media_ACJjBp",
+        "media_twzMkE"
+      ],
+      "custom_css": [
+        ".media {}",
+        ".gallery-block__image {border: 1px solid rgba(255, 255, 255, 0.4); border-radius: 16px; background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(6px); overflow: hidden; transition: transform 0.3s ease, backdrop-filter 0.3s ease;}",
+        ".hover\\:grow-media:hover .gallery-block__image {transform: scale(1.05); backdrop-filter: blur(10px);}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 300,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "1",
+        "color_scheme": "white",
+        "transparent_content_color": "#f19222"
+      }
+    },
+    "custom_liquid_XfUpqN": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<!DOCTYPE html>\n<html lang=\"de\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Shopify Sektion</title>\n  <style>\n    /* Container für den Titel und die Linie */\n    .section-wrapper {\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      flex-direction: column;\n      width: 100%;\n      margin: 20px auto;\n      padding: 10px;\n      text-align: center;\n      position: relative;\n    }\n\n    /* Titel mit automatischer Größenanpassung */\n    .section-title {\n      font-size: clamp(24px, 5vw, 50px); /* Passt sich automatisch an */\n      font-weight: bold;\n      color: #333;\n    }\n\n    /* Orangener Strich */\n    .section-line {\n      width: 100%; /* Standardmäßig volle Breite auf PCs */\n      height: 4px;\n      background-color: orange;\n      margin-top: 10px;\n    }\n\n    /* Responsive Anpassung für Tablets & Mobile */\n    @media (max-width: 1024px) { /* Tablet */\n      .section-line {\n        width: 80%; /* Schmaler auf Tablets */\n        max-width: 300px;\n      }\n    }\n\n    @media (max-width: 768px) { /* Mobile */\n      .section-line {\n        width: 90%; /* Etwas schmaler auf kleineren Geräten */\n      }\n    }\n  </style>\n</head>\n<body>\n\n  <!-- Mehrfach nutzbare Sektion -->\n  <div class=\"section-wrapper\">\n    <h2 class=\"section-title\">Schon gesehen?</h2>\n    <div class=\"section-line\"></div>\n  </div>\n\n</body>\n</html>",
+        "section_height": "default",
+        "full_width": false,
+        "dividers": "none",
+        "prevent_animation": false
+      }
+    },
+    "multi_column_hmJ8Ln": {
+      "type": "multi-column",
+      "blocks": {
+        "column_ReYWmD": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/conie_mobile_joyroom_ladekabel_pvc_usb_c_auf_usb_c_S-CC060A9_weiss_detail_01.jpg",
+            "media_scale": 100,
+            "heading": "Kabel & Verbindung",
+            "text": "<ul><li><a href=\"/collections/usb-c-kabel\" title=\"USB-C Kabel\">USB-C Kabel</a></li><li><a href=\"/collections/micro-usb\" title=\"Micro-USB\">Micro-USB Kabel</a></li><li><a href=\"/collections/lightning-kabel\" title=\"Lightning Kabel\">Lightning Kabel</a></li><li><a href=\"/collections/hdmi-kabel\" title=\"HDMI Kabel\">HDMI Kabel</a></li></ul>",
+            "button_label": "Alle anzeigen",
+            "button_link": ""
+          }
+        },
+        "column_nMWrBz": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/conie_mobile_energie_ladeger_C3_A4te_b16_3in1_wireless_charger_station_mit_magsafe_schwarz_detail_01.jpg",
+            "media_scale": 100,
+            "heading": "Energie & Laden",
+            "text": "<ul><li><a href=\"/collections/netzteile\" title=\"Netzteile\">Netzteile</a></li><li><a href=\"/collections/ladestation\" title=\"Ladestationen\">Ladestationen</a></li><li><a href=\"/collections/powerbanks\" title=\"Powerbanks\">Powerbanks</a></li><li><a href=\"/collections/kfz-ladegerate\" title=\"KFZ Ladegeräte\">KFZ Ladegeräte<br/></a></li></ul>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_hznJYL": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/conie_mobile_joyroom_halterungen_bike_lenker_jr-zs266_detail_01.jpg",
+            "media_scale": 100,
+            "heading": "Office & Zubehör",
+            "text": "<ul><li><a href=\"/collections/tastaturen\" title=\"Tastaturen\">Tastatur & Maus</a></li><li><a href=\"/collections/sound\" title=\"Sound\">Sound</a></li><li><a href=\"/collections/halterungen-1\" title=\"Halterungen\">Halterungen</a></li><li><a href=\"/collections/netzwerkkabel\" title=\"Netzwerkkabel\">LAN-Kabel<br/></a></li></ul>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_ReYWmD",
+        "column_nMWrBz",
+        "column_hznJYL"
+      ],
+      "custom_css": [
+        ".multi-column a {text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "3",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "custom_liquid_7JeTwH": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<!DOCTYPE html>\n<html lang=\"de\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Shopify Sektion</title>\n  <style>\n    /* Container für den Titel und die Linie */\n    .section-wrapper {\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      flex-direction: column;\n      width: 100%;\n      margin: 20px auto;\n      padding: 10px;\n      text-align: center;\n      position: relative;\n    }\n\n    /* Titel mit automatischer Größenanpassung */\n    .section-title {\n      font-size: clamp(24px, 5vw, 50px); /* Automatisch skalierbar */\n      font-weight: bold;\n      color: #333;\n      margin-bottom: 5px;\n    }\n\n    /* Untertitel mit dynamischer Anpassung */\n    .section-subtitle {\n      font-size: clamp(14px, 2.5vw, 22px); /* Anpassbar für verschiedene Geräte */\n      color: #666;\n      margin-bottom: 10px;\n      max-width: 80%;\n    }\n\n    /* Orangener Strich */\n    .section-line {\n      width: 100%; /* Standardmäßig volle Breite */\n      height: 4px;\n      background-color: orange;\n      margin-top: 10px;\n    }\n\n    /* Responsive Anpassung für Tablets & Mobile */\n    @media (max-width: 1024px) { /* Tablet */\n      .section-line {\n        width: 80%; /* Schmaler auf Tablets */\n        max-width: 300px;\n      }\n    }\n\n    @media (max-width: 768px) { /* Mobile */\n      .section-line {\n        width: 90%; /* Schmaler auf Smartphones */\n      }\n\n      .section-subtitle {\n        max-width: 90%;\n      }\n    }\n  </style>\n</head>\n<body>\n\n  <!-- Mehrfach nutzbare Sektion -->\n  <div class=\"section-wrapper\">\n    <h2 class=\"section-title\">Zubehör für die beliebtesten Handymodelle</h2>\n    <p class=\"section-subtitle\">\n      Schütze dein Gerät mit Stil: Entdecke unsere Sammlung hochwertigen Zubehörs für die beliebtesten Modelle der letzten Jahre.\n    </p>\n    <div class=\"section-line\"></div>\n  </div>\n\n</body>\n</html>",
+        "section_height": "default",
+        "full_width": false,
+        "dividers": "none",
+        "prevent_animation": false
+      }
+    },
+    "collection_list_waqPkB": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_dR9HqN": {
+          "type": "collection",
+          "settings": {
+            "collection": "iphone-16",
+            "image": "shopify://shop_images/iPhone_16_37303fbc-4d00-4db6-b4ce-5b6bb42687de.webp"
+          }
+        },
+        "collection_9F383H": {
+          "type": "collection",
+          "settings": {
+            "collection": "iphone-16-plus",
+            "image": "shopify://shop_images/iPhone_16_37303fbc-4d00-4db6-b4ce-5b6bb42687de.webp"
+          }
+        },
+        "collection_7dRefF": {
+          "type": "collection",
+          "settings": {
+            "collection": "iphone-16-pro",
+            "image": "shopify://shop_images/iPhone_16_Pro_88d80e9e-6825-4517-a84a-a932278809e6.webp"
+          }
+        },
+        "collection_4rCxKn": {
+          "type": "collection",
+          "settings": {
+            "collection": "iphone-16-pro-max",
+            "image": "shopify://shop_images/iPhone_16_37303fbc-4d00-4db6-b4ce-5b6bb42687de.webp"
+          }
+        },
+        "collection_wp3QP7": {
+          "type": "collection",
+          "settings": {
+            "collection": "iphone-15",
+            "image": "shopify://shop_images/iPhone_15.webp"
+          }
+        },
+        "collection_wh6wrj": {
+          "type": "collection",
+          "settings": {
+            "collection": "iphone-15-pro",
+            "image": "shopify://shop_images/iPhone_15_Pro_Max.webp"
+          }
+        },
+        "collection_XzgwL7": {
+          "type": "collection",
+          "settings": {
+            "collection": "iphone-15-pro-max",
+            "image": "shopify://shop_images/iPhone_15_Pro_Max.webp"
+          }
+        },
+        "collection_xW9JPU": {
+          "type": "collection",
+          "settings": {
+            "collection": "iphone-14",
+            "image": "shopify://shop_images/iPhone_13.webp"
+          }
+        },
+        "collection_naeQM3": {
+          "type": "collection",
+          "settings": {
+            "collection": "iphone-14-pro",
+            "image": "shopify://shop_images/iPhone_14_Pro_Max_7824c080-45ae-4081-924d-96df8d20000c.webp"
+          }
+        },
+        "collection_MkmLTM": {
+          "type": "collection",
+          "settings": {
+            "collection": "iphone-14-pro-max",
+            "image": "shopify://shop_images/iPhone_14_Pro_Max.webp"
+          }
+        },
+        "collection_R6wkrY": {
+          "type": "collection",
+          "settings": {
+            "collection": "iphone-13",
+            "image": "shopify://shop_images/iPhone_13.webp"
+          }
+        },
+        "collection_FiPe6k": {
+          "type": "collection",
+          "settings": {
+            "collection": "iphone-13-pro-max",
+            "image": "shopify://shop_images/iPhone_13_Pro_Max.webp"
+          }
+        }
+      },
+      "block_order": [
+        "collection_dR9HqN",
+        "collection_9F383H",
+        "collection_7dRefF",
+        "collection_4rCxKn",
+        "collection_wp3QP7",
+        "collection_wh6wrj",
+        "collection_XzgwL7",
+        "collection_xW9JPU",
+        "collection_naeQM3",
+        "collection_MkmLTM",
+        "collection_R6wkrY",
+        "collection_FiPe6k"
+      ],
+      "custom_css": [
+        ".os-scrollbar-horizontal {height: 25px !important;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "card_size": "small",
+        "use_product_image": false,
+        "circle_image": false,
+        "show_border": false,
+        "color_scheme": "none",
+        "full_width": true
+      }
+    },
+    "collection_list_tyJRRK": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_WDt79X": {
+          "type": "collection",
+          "settings": {
+            "collection": "galaxy-s25",
+            "image": "shopify://shop_images/S25.webp"
+          }
+        },
+        "collection_REwX89": {
+          "type": "collection",
+          "settings": {
+            "collection": "galaxy-s25-plus",
+            "image": "shopify://shop_images/S25.webp"
+          }
+        },
+        "collection_CNmrCG": {
+          "type": "collection",
+          "settings": {
+            "collection": "galaxy-s25-ultra",
+            "image": "shopify://shop_images/s25_ultra.webp"
+          }
+        },
+        "collection_ymAj3b": {
+          "type": "collection",
+          "settings": {
+            "collection": "galaxy-s24",
+            "image": "shopify://shop_images/samsung_galaxy_S24.webp"
+          }
+        },
+        "collection_DemcAA": {
+          "type": "collection",
+          "settings": {
+            "collection": "galaxy-s24-ultra",
+            "image": "shopify://shop_images/samsung-galaxy-s24-ultra.webp"
+          }
+        },
+        "collection_B77WVe": {
+          "type": "collection",
+          "settings": {
+            "collection": "galaxy-s23-ultra",
+            "image": "shopify://shop_images/samsung_galaxy_S23_ultra.webp"
+          }
+        },
+        "collection_xFpPgc": {
+          "type": "collection",
+          "settings": {
+            "collection": "galaxy-a55-5g",
+            "image": "shopify://shop_images/samsung_galaxy_A55.webp"
+          }
+        },
+        "collection_3tfnYi": {
+          "type": "collection",
+          "settings": {
+            "collection": "galaxy-a23-5g",
+            "image": "shopify://shop_images/samsung_galaxy_A23.webp"
+          }
+        },
+        "collection_93aA9h": {
+          "type": "collection",
+          "settings": {
+            "collection": "galaxy-a14-5g",
+            "image": "shopify://shop_images/samsung_galaxy_A14.webp"
+          }
+        },
+        "collection_qMKD4B": {
+          "type": "collection",
+          "settings": {
+            "collection": "galaxy-a13-5g",
+            "image": "shopify://shop_images/samsung_galaxy_A13_5G.webp"
+          }
+        },
+        "collection_XFCChR": {
+          "type": "collection",
+          "settings": {
+            "collection": "galaxy-a03",
+            "image": "shopify://shop_images/samsung_galaxy_A03.webp"
+          }
+        }
+      },
+      "block_order": [
+        "collection_WDt79X",
+        "collection_REwX89",
+        "collection_CNmrCG",
+        "collection_ymAj3b",
+        "collection_DemcAA",
+        "collection_B77WVe",
+        "collection_xFpPgc",
+        "collection_3tfnYi",
+        "collection_93aA9h",
+        "collection_qMKD4B",
+        "collection_XFCChR"
+      ],
+      "custom_css": [
+        ".os-scrollbar-horizontal {height: 25px !important;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "card_size": "small",
+        "use_product_image": false,
+        "circle_image": false,
+        "show_border": false,
+        "color_scheme": "none",
+        "full_width": true
+      }
+    },
+    "collection_list_C6FCwL": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_CDDUCV": {
+          "type": "collection",
+          "settings": {
+            "collection": "xiaomi-15",
+            "image": "shopify://shop_images/xiaomi_15.webp"
+          }
+        },
+        "collection_abYkUg": {
+          "type": "collection",
+          "settings": {
+            "collection": "xiaomi-14t-pro",
+            "image": "shopify://shop_images/Xiaomi_14.webp"
+          }
+        },
+        "collection_EQ7qzE": {
+          "type": "collection",
+          "settings": {
+            "collection": "xiaomi-14",
+            "image": "shopify://shop_images/Xiaomi_14.webp"
+          }
+        },
+        "collection_nKtcjn": {
+          "type": "collection",
+          "settings": {
+            "collection": "redmi-note-13-pro-5g-1",
+            "image": "shopify://shop_images/Xiaomi_Redmi_Note_13_5G.webp"
+          }
+        },
+        "collection_ze8wXL": {
+          "type": "collection",
+          "settings": {
+            "collection": "huawei-p50-pro",
+            "image": "shopify://shop_images/huawei_p50_pro.webp"
+          }
+        },
+        "collection_8G9QAq": {
+          "type": "collection",
+          "settings": {
+            "collection": "huawei-p50-pocket",
+            "image": "shopify://shop_images/huawei_p50_pocket.webp"
+          }
+        },
+        "collection_fnUQdc": {
+          "type": "collection",
+          "settings": {
+            "collection": "pixel-8-pro",
+            "image": "shopify://shop_images/google_pixel_8_pro.webp"
+          }
+        },
+        "collection_Lwek47": {
+          "type": "collection",
+          "settings": {
+            "collection": "pixel-8a",
+            "image": "shopify://shop_images/google_pixel_8a.webp"
+          }
+        }
+      },
+      "block_order": [
+        "collection_CDDUCV",
+        "collection_abYkUg",
+        "collection_EQ7qzE",
+        "collection_nKtcjn",
+        "collection_ze8wXL",
+        "collection_8G9QAq",
+        "collection_fnUQdc",
+        "collection_Lwek47"
+      ],
+      "custom_css": [
+        ".os-scrollbar-horizontal {height: 25px !important;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "card_size": "small",
+        "use_product_image": false,
+        "circle_image": false,
+        "show_border": false,
+        "color_scheme": "none",
+        "full_width": true
+      }
+    },
+    "testimonials_M6a3hF": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_9cdYqT": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>Gute Auswahl auch für ein älteres Handy!<br/>Ware wurde ohne Probleme abgewickelt und die Lieferung war immer schnell.</p>",
+            "author": "Thorsten W.",
+            "author_info": "",
+            "show_star_rating": true,
+            "star_rating": 5
+          }
+        },
+        "testimonial_qRFUt6": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>Habe schon öfter bestellt die Lieferung ging immer schnell. Die Ware war<br/> immer einwandfrei und selbst ein Umtausch nach falscher Bestellung <br/>meinerseits wurde problemlos abgewickelt.</p>",
+            "author": "Klaus",
+            "author_info": "",
+            "show_star_rating": true,
+            "star_rating": 5
+          }
+        },
+        "testimonial_6ncbMK": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>Das Produkt kam hochwertig verpackt an und entspricht genau der <br/>Beschreibung vom Händler und meiner Vorstellung. Die Kommunikation war <br/>sehr freundlich und professionell.</p>",
+            "author": "Antje N.",
+            "author_info": "",
+            "show_star_rating": true,
+            "star_rating": 5
+          }
+        },
+        "testimonial_tgWfN3": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>Freitag morgen bestellt und Samstag morgen in der Post- mehr muß man <br/>dazu wohl nicht sagen. Außerdem top Qualität der Handyhülle. Besser geht<br/> nun wirklich nicht.</p>",
+            "author": "Karl-Heinz H.",
+            "author_info": "",
+            "show_star_rating": true,
+            "star_rating": 5
+          }
+        },
+        "testimonial_eJanDg": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>Einfache Handhabung und irrsinnig große Auswahl an Produkten. Lieferung <br/>schnell und korrekt. Bin seit längerer Zeit Kunde und hatte bis heute <br/>keine negativen Erfahrungen gemacht. Daumen hoch!</p>",
+            "author": "Christian",
+            "author_info": "",
+            "show_star_rating": true,
+            "star_rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_9cdYqT",
+        "testimonial_qRFUt6",
+        "testimonial_6ncbMK",
+        "testimonial_tgWfN3",
+        "testimonial_eJanDg"
+      ],
+      "custom_css": [],
+      "settings": {
+        "heading": "Kundenrezensionen",
+        "show_quotes": true,
+        "testimonial_size": "h5",
+        "text_position": "justify-center",
+        "text_align": "text-center justify-center",
+        "nav_style": "slideshow_nav_dots",
+        "transition": "slide-fade",
+        "autoplay": true,
+        "slider_pause": true,
+        "autoplay_speed": 5,
+        "color_scheme": "default",
+        "full_width": true
+      }
+    },
+    "17447813695c132c6e": {
+      "type": "apps",
+      "blocks": {
+        "sledge_happy_customers_page_wmeAmX": {
+          "type": "shopify://apps/sledge/blocks/happy-customers-page/213c3487-6448-44c0-baa7-868f58d5291d",
+          "disabled": true,
+          "settings": {
+            "max_width": 1180
+          }
+        }
+      },
+      "block_order": [
+        "sledge_happy_customers_page_wmeAmX"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
+    }
+  },
+  "order": [
+    "pop_up_KP7wf3",
+    "slideshow_JPRaTA",
+    "custom_liquid_hn8NRM",
+    "custom_slideshow_8HJzrB",
+    "custom_liquid_cBDWBj",
+    "media_grid_AAgGk7",
+    "custom_liquid_kMymAy",
+    "custom_liquid_yCF49d",
+    "product_list_FDckHN",
+    "product_list_zrLPUc",
+    "product_list_UjnMGe",
+    "custom_liquid_jVfqB7",
+    "product_features_xcmALE",
+    "custom_liquid_yBXyWg",
+    "custom_liquid_UCJDEG",
+    "media_grid_8mJfGX",
+    "media_grid_3THhfd",
+    "custom_liquid_XfUpqN",
+    "multi_column_hmJ8Ln",
+    "custom_liquid_7JeTwH",
+    "collection_list_waqPkB",
+    "collection_list_tyJRRK",
+    "collection_list_C6FCwL",
+    "testimonials_M6a3hF",
+    "17447813695c132c6e"
+  ]
+}
