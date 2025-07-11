@@ -9,7 +9,7 @@
 {%- endcomment -%}
 
 {%- if icon != blank and icon != 'none' -%}
-  <svg class="icon icon--{{ icon }}" {% if width and height %}width="{{ width }}" height="{{ height }}" {% endif %}viewBox="0 0 16 16" aria-hidden="true" focusable="false" role="presentation">
+  <svg class="icon icon--{{ icon }}{% if class %} {{ class }}{% endif %}" {% if width and height %}width="{{ width }}" height="{{ height }}" {% endif %}viewBox="0 0 16 16" aria-hidden="true" focusable="false" role="presentation">
     {%- case icon -%}
       {%- when 'award' -%}
         <circle stroke="currentColor" fill="none" cx="8.1081667" cy="5.6658235" r="4.3742652"/>
