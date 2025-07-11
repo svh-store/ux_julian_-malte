@@ -96,10 +96,10 @@
         {%- if section.settings.logo_center and section.settings.minimise_search_desktop -%}
           <a class="header__icon header__icon--search-left absolute hidden md:block js-show-search-left" href="{{ routes.search_url }}" aria-controls="search-bar">
             <span class="header__icon--search-left-search">
-              {% render 'icon-search' %}
+              {% render 'icon-search', class: 'header-icon' %}
             </span>
             <span class="header__icon--search-left-close">
-              {% render 'icon-close' %}
+              {% render 'icon-close', class: 'header-icon' %}
             </span>
             <span class="visually-hidden">{{ 'general.icon_labels.search' | t }}</span>
           </a>
@@ -124,7 +124,7 @@
             endif
           -%}
           <a class="header__icon {{ search_button_class }} js-show-search" href="{{ routes.search_url }}" aria-controls="search-bar">
-            {% render 'icon-search' %}
+            {% render 'icon-search', class: 'header-icon' %}
             <span class="visually-hidden">{{ 'general.icon_labels.search' | t }}</span>
           </a>
         {%- endunless -%}
@@ -132,12 +132,12 @@
       {%- if shop.customer_accounts_enabled -%}
         {%- if customer -%}
           <a class="header__icon text-current" href="{{ routes.account_url }}">
-            {% render 'icon-customer' %}
+            {% render 'icon-customer', class: 'header-icon' %}
             <span class="visually-hidden">{{ 'sections.header.account' | t }}</span>
           </a>
         {%- else -%}
           <a class="header__icon text-current" href="{{ routes.account_login_url }}">
-            {% render 'icon-customer' %}
+            {% render 'icon-customer', class: 'header-icon' %}
             <span class="visually-hidden">{{ 'sections.header.log_in' | t }}</span>
           </a>
         {%- endif -%}
@@ -145,13 +145,13 @@
 
       <a class="header__icon{% if settings.cart_shaking and cart != empty %} header__icon--cart-shake has-motion{% endif %} relative text-current" id="cart-icon" href="{{ routes.cart_url }}"{% if settings.cart_shaking and cart != empty %} data-shake-frequency="{{ settings.cart_shaking_frequency }}"{% endif %}{% if settings.preload_links %} data-no-instant{% endif %}>
         {%- if settings.cart_icon == 'bag' -%}
-          {%- render 'icon-bag' -%}
+          {%- render 'icon-bag', class: 'header-icon' -%}
           <span class="visually-hidden">{{ 'sections.header.bag' | t }}</span>
         {%- elsif settings.cart_icon == 'basket' -%}
-          {%- render 'icon-basket' -%}
+          {%- render 'icon-basket', class: 'header-icon' -%}
           <span class="visually-hidden">{{ 'sections.header.basket' | t }}</span>
         {%- else -%}
-          {%- render 'icon-cart' -%}
+          {%- render 'icon-cart', class: 'header-icon' -%}
           <span class="visually-hidden">{{ 'sections.header.cart' | t }}</span>
         {%- endif -%}
 
@@ -184,7 +184,7 @@
                   {%- assign link_title_downcase = link.title | downcase -%}
                   <li>
                     {%- if link.links == blank -%}
-                      <a class="main-nav__item main-nav__item--primary{% if link.current %} is-active{% endif %}{% if featured_links contains link_title_downcase %} main-nav__link--featured{% endif %}" href="{{ link.url }}"{% if link.current %} aria-current="page"{% endif %}>
+                      <a class="main-nav__item main-nav__item--primary site-nav__link{% if link.current %} is-active{% endif %}{% if featured_links contains link_title_downcase %} main-nav__link--featured{% endif %}" href="{{ link.url }}"{% if link.current %} aria-current="page"{% endif %}>
                         {{- link.title | escape -}}
                       </a>
                     {%- else -%}
@@ -202,8 +202,8 @@
 
                       <details{% if mega_nav %} class="js-mega-nav" {{ mega_nav.shopify_attributes }}{% endif %}>
                         <summary class="main-nav__item--toggle relative js-nav-hover js-toggle">
-                          <a class="main-nav__item main-nav__item--primary main-nav__item-content{% if link.current %} is-active{% endif %}{% if featured_links contains link_title_downcase %} main-nav__link--featured{% endif %}" href="{{ link.url }}"{% if link.current %} aria-current="page"{% endif %}>
-                            {{ link.title | escape }}{% render 'icon-chevron-down' %}
+                          <a class="main-nav__item main-nav__item--primary main-nav__item-content site-nav__link{% if link.current %} is-active{% endif %}{% if featured_links contains link_title_downcase %} main-nav__link--featured{% endif %}" href="{{ link.url }}"{% if link.current %} aria-current="page"{% endif %}>
+                            {{ link.title | escape }}{% render 'icon-chevron-down', class: 'nav-icon' %}
                           </a>
                         </summary>
                         {%- liquid
@@ -285,7 +285,7 @@
                               <li class="md:hidden">
                                 <button type="button" class="main-nav__item main-nav__item--back relative js-back">
                                   <div class="main-nav__item-content text-start">
-                                    {% render 'icon-chevron-left' %} {{- 'general.navigation.back' | t -}}
+                                    {% render 'icon-chevron-left', class: 'nav-icon' %} {{- 'general.navigation.back' | t -}}
                                   </div>
                                 </button>
                               </li>
@@ -358,7 +358,7 @@
                                         {{- child_link.title | escape -}}
                                         {% if has_grandchildren_menus and mega_nav.type == "pills" %}
                                           <div class="hidden md:inline-flex main-nav__icon-circle">
-                                            {% render 'icon-chevron-right' %}
+                                            {% render 'icon-chevron-right', class: 'nav-icon' %}
                                           </div>
                                         {% endif %}
                                       </a>
@@ -388,7 +388,7 @@
                                               </div>
                                             {%- endif -%}
                                             <a class="child-nav__item main-nav__item main-nav__item-content{% if child_link.current %} is-active{% endif %}{% if featured_links contains child_link_title_downcase %} main-nav__link--featured{% endif %}" href="{{ child_link.url }}"{% if settings.preload_links %} data-no-instant{% endif %}>
-                                              {{- child_link.title | escape -}}{% render 'icon-chevron-down' %}
+                                              {{- child_link.title | escape -}}{% render 'icon-chevron-down', class: 'nav-icon' %}
                                             </a>
                                           </div>
                                         </summary>
@@ -506,7 +506,7 @@
                                             {%- if section.settings.repeat_links and child_link.url != '#' -%}
                                               <li class="col-start-1 col-end-3">
                                                 <a href="{{ child_link.url }}" class="main-nav__item--go">
-                                                  {{- 'sections.header.go_to' | t: title: child_link.title -}}{% render 'icon-chevron-right' %}
+                                                  {{- 'sections.header.go_to' | t: title: child_link.title -}}{% render 'icon-chevron-right', class: 'nav-icon' %}
                                                 </a>
                                               </li>
                                             {%- endif -%}
@@ -666,7 +666,7 @@
                       <a href="{{ section.settings.cta_link }}" class="secondary-nav__item secondary-nav__cta{% if section.settings.cta_bg_color.alpha > 0 or section.settings.cta_border_color.alpha > 0 %} secondary-nav__cta--button{% endif %} flex items-center"{% if link.current %} aria-current="page"{% endif %}
                         style="{% if section.settings.cta_bg_color.alpha > 0 %}--cta-bg-color: {{ section.settings.cta_bg_color.rgb }};--cta-bg-hover-color: {{ cta_bg_color_hover.rgb }};{% endif %}color: {{ section.settings.cta_text_color }};{% if section.settings.cta_border_color.alpha > 0 %}border: var(--btn-border-width, 1px) solid {{ section.settings.cta_border_color }};{% endif %}">
                         {%- if section.settings.cta_icon != "none" -%}
-                          {%- render 'icon', icon: section.settings.cta_icon, width: 17, height: 17 -%}
+                          {%- render 'icon', icon: section.settings.cta_icon, width: 17, height: 17, class: 'nav-icon' -%}
                         {%- endif -%}
                         {%- if section.settings.cta_label != blank -%}
                           <span>{{ section.settings.cta_label }}</span>

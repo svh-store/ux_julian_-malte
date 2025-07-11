@@ -5,6 +5,7 @@
   box-sizing: border-box;
 }
 
+
 html {
   font-size: 62.5%;
   -webkit-font-smoothing: antialiased;
@@ -5569,5 +5570,63 @@ body > .os-scrollbar {
   }
   .xl\:grid-cols-8{
     grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+}
+/* Header and navigation icon sizing */
+.header__icon .header-icon {
+  width: 18px;
+  height: 18px;
+}
+
+/* Navigation link font size */
+.main-nav__item .site-nav__link {
+  font-size: 12px;
+}
+
+/* Navigation chevron icon size */
+.main-nav__item .nav-icon {
+  width: 12px;
+  height: 12px;
+}
+
+@media (min-width: 768px) {
+  .header__icon .header-icon {
+    width: 20px;
+    height: 20px;
+  }
+  .main-nav__item .nav-icon {
+    width: 14px;
+    height: 14px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .header__icon .header-icon {
+    width: 22px;
+    height: 22px;
+  }
+  .main-nav__item .nav-icon {
+    width: 16px;
+    height: 16px;
+  }
+}
+
+@media (min-width: 768px) {
+  .main-nav__item .site-nav__link {
+    font-size: 14px;
+  }
+  .main-nav__item .nav-icon {
+    width: 14px;
+    height: 14px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .main-nav__item .site-nav__link {
+    font-size: 16px;
+  }
+  .main-nav__item .nav-icon {
+    width: 16px;
+    height: 16px;
   }
 }
