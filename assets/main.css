@@ -5583,16 +5583,7 @@ body > .os-scrollbar {
   height: 12px;
 }
 
-/* Main menu font and icon sizing */
-.site-nav__link {
-  font-size: 12px;
-}
-
-.site-nav__link svg {
-  width: 12px;
-  height: 12px;
-}
-
+main
 @media (min-width: 768px) {
   .header__icon .header-icon {
     width: 20px;
@@ -5614,6 +5605,7 @@ body > .os-scrollbar {
     height: 16px;
   }
 }
+ codex/unterscheide-svg-icons-im-header
 
 @media (min-width: 768px) {
   .site-nav__link {
@@ -5634,3 +5626,4 @@ body > .os-scrollbar {
     height: 16px;
   }
 }
+ main
