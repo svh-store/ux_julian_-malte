@@ -271,7 +271,7 @@
         "quick_nav_image_ratio": "1",
         "quick_nav_image_fit": "contain",
         "quick_nav_use_product_image": false,
-        "quick_nav_color_scheme": "1",
+        "quick_nav_color_scheme": "default",
         "quick_nav_show_price": false,
         "menu_1_text": "1. Hersteller",
         "menu_1_display": "small_text",
